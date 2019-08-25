@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaare W. Strom | Academic</title>
+    <link>/authors/kaare-w.-strom/</link>
+      <atom:link href="/authors/kaare-w.-strom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaare W. Strom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Kaare W. Strom</title>
+      <link>/authors/kaare-w.-strom/</link>
+    </image>
+    
+    <item>
+      <title>Power Sharing: Institutions, Behavior, and Peace</title>
+      <link>/publication/institutions_behavior_peace/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/institutions_behavior_peace/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

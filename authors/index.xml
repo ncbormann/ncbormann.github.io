@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Aya Kachi</title>
+      <link>/authors/aya-kachi/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aya-kachi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Wucherpfennig</title>
+      <link>/authors/julian-wucherpfennig/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/julian-wucherpfennig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Toukan</title>
+      <link>/authors/mark-toukan/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-toukan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Steinwand</title>
+      <link>/authors/martin-steinwand/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/martin-steinwand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Sambanis</title>
+      <link>/authors/nicholas-sambanis/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nicholas-sambanis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann</title>
+      <link>/authors/nils-christian-bormann/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Hunziker</title>
+      <link>/authors/philipp-hunziker/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/philipp-hunziker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin A.T. Graham</title>
+      <link>/authors/benjamin-a.t.-graham/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-a.t.-graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaare W. Strom</title>
+      <link>/authors/kaare-w.-strom/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/kaare-w.-strom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars-Erik Cederman</title>
+      <link>/authors/lars-erik-cederman/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lars-erik-cederman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Gates</title>
+      <link>/authors/scott-gates/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/scott-gates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Hug</title>
+      <link>/authors/simon-hug/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/simon-hug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burcu Savun</title>
+      <link>/authors/burcu-savun/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/burcu-savun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a political scientist at the &lt;a href=&#34;http://socialsciences.exeter.ac.uk/politics/&#34; target=&#34;_blank&#34;&gt;University of Exeter&lt;/a&gt; and I am affiliated with the &lt;a href=&#34;https://web.sas.upenn.edu/pic-lab/&#34; target=&#34;_blank&#34;&gt;Identity &amp;amp; Conflict Lab&lt;/a&gt; at the University of Pennsylvania.&lt;/p&gt;
+
+&lt;p&gt;In my &lt;a href=&#34;http://socialsciences.exeter.ac.uk/politics/staff/bormann&#34; target=&#34;_blank&#34;&gt;research&lt;/a&gt; I investigate why political elites in ethnically divided societies decide to cooperate rather than fight one another, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing.&lt;/p&gt;
+
+&lt;p&gt;In September 2019, I will join the &lt;a href=&#34;https://www.essex.ac.uk/departments/government&#34; target=&#34;_blank&#34;&gt;Department of Government&lt;/a&gt; at the University of Essex.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

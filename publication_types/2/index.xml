@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty, Cleavages, and Ethnic Coalitions</title>
+      <link>/publication/uncertainty_cleavages_coalitions/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/uncertainty_cleavages_coalitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sharing: Institutions, Behavior, and Peace</title>
+      <link>/publication/institutions_behavior_peace/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/institutions_behavior_peace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reputation, Concessions, and Territorial Civil War</title>
+      <link>/publication/reputation_concessions_civilwar/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reputation_concessions_civilwar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

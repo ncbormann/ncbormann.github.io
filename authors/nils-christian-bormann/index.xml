@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nils-Christian Bormann | Academic</title>
+    <link>/authors/nils-christian-bormann/</link>
+      <atom:link href="/authors/nils-christian-bormann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nils-Christian Bormann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Nils-Christian Bormann</title>
+      <link>/authors/nils-christian-bormann/</link>
+    </image>
+    
+    <item>
+      <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
+      <link>/publication/scalable_mcem/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/scalable_mcem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outside Options: External Intervention and the Stability of Territorial Autonomy Agreements after Civil War</title>
+      <link>/publication/outside_options/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/outside_options/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Coalitions and Ethnic Armed Conflict</title>
+      <link>/publication/power_sharing_coalitions/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/power_sharing_coalitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty, Cleavages, and Ethnic Coalitions</title>
+      <link>/publication/uncertainty_cleavages_coalitions/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/uncertainty_cleavages_coalitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sharing: Institutions, Behavior, and Peace</title>
+      <link>/publication/institutions_behavior_peace/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/institutions_behavior_peace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reputation, Concessions, and Territorial Civil War</title>
+      <link>/publication/reputation_concessions_civilwar/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reputation_concessions_civilwar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

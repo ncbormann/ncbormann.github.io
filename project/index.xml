@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Democratic Electoral Systems</title>
+      <link>/project/democratic_electoral_systems/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/democratic_electoral_systems/</guid>
+      <description>
+
+&lt;p&gt;Joint work with &lt;a href=&#34;http://mattgolder.com&#34; target=&#34;_blank&#34;&gt;Matt Golder&lt;/a&gt; (Pennsylvania State University).&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Elections are a defining feature of contemporary democracies. The precise rules governing elections can have an important impact on a diverse set of outcomes related to things like identity formation, political representation and accountability, economic policy, public goods provision, coalition formation, levels of corruption, party systems, and various forms of voter behavior. This resource constitutes the latest version of &lt;a href=&#34;https://doi.org/10.1016/j.electstud.2013.01.005&#34; target=&#34;_blank&#34;&gt;Bormann and Golder&amp;rsquo;s (2013)&lt;/a&gt; widely used Democratic Electoral Systems (DES) dataset, which provides detailed information on the electoral rules used in all democratic elections around the world as well as the size of party systems.&lt;/p&gt;
+
+&lt;p&gt;Version 3.0 of the DES dataset covers democratic elections from 1946 (or independence) through 2016, and provides information on 1,341 legislative elections and 498 presidential elections. Since we classify regimes as democratic or dictatorial based on the coding rules found in Przeworski et al. (2000), the new version of the DES dataset can also be used as an updated version of &lt;a href=&#34;https://doi.org/10.1007/s11127-009-9491-2&#34; target=&#34;_blank&#34;&gt;Cheibub, Gandhi, and Vreeland’s (2010, 69)&lt;/a&gt; popular Democracy and Dictatorship (DD) data, which, until now, only ran from 1946 to 2008.&lt;/p&gt;
+
+&lt;p&gt;All versions of the dataset are available on &lt;a href=&#34;http://mattgolder.com/elections&#34; target=&#34;_blank&#34;&gt;Matt&amp;rsquo;s homepage&lt;/a&gt;. You can find the shiny app to explore the data in greater detail &lt;a href=&#34;https://ncb13.shinyapps.io/ParlElections/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethnic Dimensions Data</title>
+      <link>/project/ethnic_dimensions/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ethnic_dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethnic Power Relations (EPR) Dataset Family 2018</title>
+      <link>/project/ethnic_power_relations/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ethnic_power_relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Ethnic Data from Africa</title>
+      <link>/project/ethnic_matching/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ethnic_matching/</guid>
+      <description>
+
+&lt;p&gt;Joint work with &lt;a href=&#34;http://www.carlmueller-crepon.org&#34; target=&#34;_blank&#34;&gt;Carl Müller-Crepon&lt;/a&gt; (ETH Zürich &amp;amp; Harvard) and &lt;a href=&#34;https://icr.ethz.ch/people/pengl/&#34; target=&#34;_blank&#34;&gt;Yannick Pengl&lt;/a&gt; (ETH Zürich).&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Ethnic identities structure social space. Social scientists have therefore assembled many
+high-quality datasets on ethnic groups, in particular covering African countries.
+However, the integration of these datasets has not yet been brought to its full potential.
+We propose a consistent and comprehensive matching of 10&amp;rsquo;000 ethnic categories in the
+eleven most prominent datasets. We first match all ethnic categories to the linguistic
+database Ethnologue. We leverage this set of all known languages as an intermediate
+dictionary to provide a link between any two groups in the original data. Leveraging the
+structure of the linguistic trees, we can match ethnic groups on multiple levels of
+aggregation and take into account linguistic distances between them. This will help
+researchers to make the most out of the available data on ethnic groups in Africa.&lt;/p&gt;
+
+&lt;h3 id=&#34;interlinked-datasets&#34;&gt;Interlinked datasets&lt;/h3&gt;
+
+&lt;p&gt;In total, we link ethnic lists drawn from eleven data sources:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.afrobarometer.org/&#34; target=&#34;_blank&#34;&gt;Afrobarometer Surveys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cidcm.umd.edu/research/all-minorities-risk-project&#34; target=&#34;_blank&#34;&gt;All Minorities at Risk (AMAR)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://international.ipums.org/international/index.shtml&#34; target=&#34;_blank&#34;&gt;Census data from IPUMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://growup.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Ethnic Power Relations Dataset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ethnologue.com/&#34; target=&#34;_blank&#34;&gt;Ethnologue languages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ethnic groups in &lt;a href=&#34;https://doi.org/10.3982/ECTA11237&#34; target=&#34;_blank&#34;&gt;Francois, Trebbi &amp;amp; Rainer (2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ethnic groups from &lt;a href=&#34;https://web.stanford.edu/group/ethnic/publicdata/publicdata.html&#34; target=&#34;_blank&#34;&gt;Fearon (2003)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://icr.ethz.ch/data/greg/&#34; target=&#34;_blank&#34;&gt;GREG Data&lt;/a&gt; (based on the Russian Atlas Miradova)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dhsprogram.com/data/&#34; target=&#34;_blank&#34;&gt;Demographic and Health Surveys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://worldmap.harvard.edu/data/geonode:Murdock_EA_2011_vkZ&#34; target=&#34;_blank&#34;&gt;Murdock Atlas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://side.ethz.ch&#34; target=&#34;_blank&#34;&gt;Spatially Interpolated Data on Ethnicity (SIDE)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

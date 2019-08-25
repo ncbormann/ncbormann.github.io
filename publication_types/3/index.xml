@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic</title>
+    <link>/publication_types/3/</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>3</title>
+      <link>/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
+      <link>/publication/scalable_mcem/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/scalable_mcem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outside Options: External Intervention and the Stability of Territorial Autonomy Agreements after Civil War</title>
+      <link>/publication/outside_options/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/outside_options/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Sharing Coalitions and Ethnic Armed Conflict</title>
+      <link>/publication/power_sharing_coalitions/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/power_sharing_coalitions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

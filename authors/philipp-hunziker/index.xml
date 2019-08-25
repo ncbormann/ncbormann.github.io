@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp Hunziker | Academic</title>
+    <link>/authors/philipp-hunziker/</link>
+      <atom:link href="/authors/philipp-hunziker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philipp Hunziker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Philipp Hunziker</title>
+      <link>/authors/philipp-hunziker/</link>
+    </image>
+    
+    <item>
+      <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
+      <link>/publication/scalable_mcem/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/scalable_mcem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

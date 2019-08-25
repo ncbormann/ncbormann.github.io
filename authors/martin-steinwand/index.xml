@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Steinwand | Academic</title>
+    <link>/authors/martin-steinwand/</link>
+      <atom:link href="/authors/martin-steinwand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Steinwand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Martin Steinwand</title>
+      <link>/authors/martin-steinwand/</link>
+    </image>
+    
+    <item>
+      <title>Power-Sharing Coalitions and Ethnic Armed Conflict</title>
+      <link>/publication/power_sharing_coalitions/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/power_sharing_coalitions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
