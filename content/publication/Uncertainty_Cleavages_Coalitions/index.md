@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Uncertainty_Cleavages_Coalitions/Uncertainty_Cleavages_Coalitions_main.pdf'
+url_pdf: 'publication/uncertainty_cleavages_coalitions/Uncertainty_Cleavages_Coalitions_main.pdf'
 url_code: 'https://doi.org/10.7910/DVN/KGZGLT'
 url_dataset: ''
 url_poster: ''

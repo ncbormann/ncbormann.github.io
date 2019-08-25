@@ -45,7 +45,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Institutions_Behavior_Peace/Institutions_Behavior_Peace_main.pdf'
+url_pdf: 'publication/institutions_behavior_peace/Institutions_Behavior_Peace_main.pdf'
 url_code: 'https://doi.org/10.7910/DVN/3DK6JA'
 url_dataset: ''
 url_poster: ''

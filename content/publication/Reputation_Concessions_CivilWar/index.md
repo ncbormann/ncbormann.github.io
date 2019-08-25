@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Reputation_Concessions_CivilWar/Reputation_Concessions_CivilWar-main.pdf'
+url_pdf: 'publication/reputation_concessions_civilwar/Reputation_Concessions_CivilWar-main.pdf'
 url_code: 'https://www.prio.org/utility/DownloadFile.ashx?id=46&type=replicationfile'
 url_dataset: ''
 url_poster: ''
