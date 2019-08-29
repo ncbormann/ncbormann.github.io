@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -64,6 +59,11 @@
   
   <url>
     <loc>/authors/nicholas-sambanis/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
   
