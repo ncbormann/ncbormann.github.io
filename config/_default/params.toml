@@ -58,9 +58,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "n.bormann@exeter.ac.uk"
-phone = "+44 1392 723283"
-address = "University of Exeter, Amory Building, Rennes Drive, Exeter, EX4 4RJ, United Kingdom"
+email = "n.bormann@essex.ac.uk"
+phone = ""
+address = "Department of Government, University of Essex, Wivenhoe Park, Colchester, CO4 3SQ, United Kingdom"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "Tuesdays, 14:00-15:00 & Wednesdays, 14:00-16:00"
