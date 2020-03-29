@@ -5,12 +5,20 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Ethnic Power Relations (EPR) Dataset Family 2019</title>
+      <link>/project/ethnic_power_relations/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/ethnic_power_relations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Democratic Electoral Systems</title>
@@ -36,14 +44,6 @@
       <link>/project/ethnic_dimensions/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/project/ethnic_dimensions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethnic Power Relations (EPR) Dataset Family 2018</title>
-      <link>/project/ethnic_power_relations/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/ethnic_power_relations/</guid>
       <description></description>
     </item>
     
