@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Winzen | Nils-Christian Bormann</title>
+    <link>/authors/thomas-winzen/</link>
+      <atom:link href="/authors/thomas-winzen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Winzen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Thomas Winzen</title>
+      <link>/authors/thomas-winzen/</link>
+    </image>
+    
+    <item>
+      <title>The Contingent Diffusion of Parliamentary Oversight Institutions in the European Union</title>
+      <link>/publication/diffusion_parliament_institutions/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/diffusion_parliament_institutions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

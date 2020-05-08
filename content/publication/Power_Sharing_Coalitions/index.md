@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: ''
+url_pdf: 'https://osf.io/preprints/socarxiv/urmtp/'
 url_code: ''
 url_dataset: ''
 url_poster: ''

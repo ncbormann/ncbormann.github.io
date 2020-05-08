@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesse Hammond | Nils-Christian Bormann</title>
+    <link>/authors/jesse-hammond/</link>
+      <atom:link href="/authors/jesse-hammond/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesse Hammond</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Jesse Hammond</title>
+      <link>/authors/jesse-hammond/</link>
+    </image>
+    
+    <item>
+      <title>A Slippery Slope: The Domestic Diffusion of Ethnic Civil War</title>
+      <link>/publication/slippery_slope_diffusion/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/slippery_slope_diffusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
