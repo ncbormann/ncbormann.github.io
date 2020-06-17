@@ -63,7 +63,7 @@ phone = ""
 address = "Department of Government, University of Essex, Wivenhoe Park, Colchester, CO4 3SQ, United Kingdom"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "No office hours in summer term."
+office_hours = "No office hours during summer term."
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
