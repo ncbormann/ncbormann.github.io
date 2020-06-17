@@ -22,7 +22,7 @@ bio: I am a political scientist and my research focuses on causes and consequenc
 
 interests:
 - Ethnic Coalitions
-- Power-Sharing
+- Power Sharing
 - Civil War
 - Spatial Methods and Diffusion
 
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/NCBormann-CV-200329.pdf
+  link: files/NCBormann-CV-200617.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "n.bormann@essex.ac.uk"
@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I am a political scientist at the [University of Essex](https://www.essex.ac.uk/departments/government) and I am affiliated with the [Identity & Conflict Lab](https://web.sas.upenn.edu/pic-lab/) at the University of Pennsylvania. I have previously held positions at the [University of Exeter](https://socialsciences.exeter.ac.uk/politics/) and the [University of Witten/Herdecke](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-and-economics/).
+I am a political scientist at the [University of Essex](https://www.essex.ac.uk/departments/government) and I am affiliated with the [Identity & Conflict Lab](https://web.sas.upenn.edu/pic-lab/) at the University of Pennsylvania. In October 2020, I will join the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-and-economics/). I have previously held positions at the [University of Exeter](https://socialsciences.exeter.ac.uk/politics/) and [Witten/Herdecke University](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-and-economics/).
 
-In my [research](https://www.essex.ac.uk/people/borma58507/nils-christian-bormann) I investigate why political elites in ethnically divided societies decide to cooperate rather than fight one another, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing. 
+My [research](https://www.essex.ac.uk/people/borma58507/nils-christian-bormann) focuses on questions of cooperation and violent conflict in ethnically divided societies. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing. 
 
