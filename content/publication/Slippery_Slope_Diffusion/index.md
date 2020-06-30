@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Slippery_Slope_Diffusion/Slippery_Slope_Diffusion-main.pdf'
+url_pdf: 'publication/slippery_slope_diffusion/Slippery_Slope_Diffusion-main.pdf'
 url_code: 'https://doi.org/10.7910/DVN/GOCL05'
 url_dataset: 'https://doi.org/10.7910/DVN/GOCL05'
 url_poster: ''

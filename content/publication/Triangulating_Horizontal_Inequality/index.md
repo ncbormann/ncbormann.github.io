@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Triangulating_Horizontal_Inequality/Cederman_et_al-Triangulating_Horizontal_Inequality_Towards_improved_Conflict_Analysis-2015.pdf'
+url_pdf: 'publication/triangulating_horizontal_inequality/Cederman_et_al-Triangulating_Horizontal_Inequality_Towards_improved_Conflict_Analysis-2015.pdf'
 url_code: 'https://doi.org/10.1177/0022343315597969'
 url_dataset: 'https://journals.sagepub.com/doi/suppl/10.1177/0022343315597969'
 url_poster: ''

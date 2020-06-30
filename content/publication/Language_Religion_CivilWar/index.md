@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Language_Religion_CivilWar/CleavageConflict-MainText.pdf'
+url_pdf: 'publication/language_religion_civilwar/CleavageConflict-MainText.pdf'
 url_code: 'https://doi.org/10.1177/0022002715600755'
 url_dataset: 'https://journals.sagepub.com/doi/suppl/10.1177/0022002715600755'
 url_poster: ''

@@ -1,5 +1,6 @@
 ---
-title: "Outside Options: External Intervention and the Stability of Territorial Autonomy Agreements after Civil War"
+title: "Outside Options: Power Sharing in the Shadow of
+External Intervention after Civil War"
 authors:
 - Nils-Christian Bormann
 - Nicholas Sambanis
@@ -21,7 +22,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: How does external intervention affect the viability of negotiated power-sharing settlements to internal armed conflicts? We argue that external support for rebel actors in secessionist conflicts undermines the effectiveness of territorial power-sharing settlements. The main mechanism that increases the risk of conflict recurrence is rebel confidence in the ability to extract more concessions due to the outside option offered by a foreign patron. We test our claims using a mixed method research design. We analyze quantitative data from a sample of ethno-territorial armed conflicts where autonomy concessions were used to reduce the risk of conflict recurrence, testing for differences in the outcomes of conflicts with and without prior intervention. We then provide process-tracing evidence from four cases of armed conflicts that reveal how foreign intervention contributed to the failure of autonomy settlements. We conclude that the impact of territorial power-sharing is likely to be conditional on patterns of external intervention – a finding with significant implications for the management of ongoing internationalized ethno-territorial wars.
+abstract: Power-sharing settlements to civil wars are often reached in the shadow of external intervention. We argue that the spectre of external intervention undermines the effectiveness of power sharing in general, and territorial autonomy in particular. Shifts in the power balance between a government and former rebels induced by changes in actual or anticipated foreign support induce commitment problems that undermine power-sharing arrangements. Due to the generally weaker position of rebel actors, gaining or losing an outside option proves particularly severe for rebel organizations. Shifts in foreign support further increase the risk of conflict recurrence in the context of territorial power sharing where the inability to monitor the other side compounds the underlying commitment problem. In a mixed methods design, we test for differences in the recurrence rate of intrastate conflicts that ended in territorial power sharing with and without prior intervention. We then provide process-tracing evidence from four cases of armed conflicts that reveal how foreign intervention contributed to the failure of autonomy settlements. Our key finding—that the effectiveness of territorial power sharing as a conflict resolution strategy is conditional on patterns of external intervention—has important implications for the management of ethno-territorial civil wars.
+
 
 
 # Summary. An optional shortened abstract.
@@ -33,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: ''
+url_pdf: 'publication/outside_options/Outside_Options-200630.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

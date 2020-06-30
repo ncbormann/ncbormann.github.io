@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Diffusion_Parliament_Institutions/Diffusion_Parliament_Institutions-main.pdf'
+url_pdf: 'publication/diffusion_parliament_institutions/Diffusion_Parliament_Institutions-main.pdf'
 url_code: 'https://doi.org/10.1111/1475-6765.12149'
 url_dataset: 'https://doi.org/10.7910/DVN/PQJQ0K'
 url_poster: ''
