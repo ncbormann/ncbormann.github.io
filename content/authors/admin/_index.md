@@ -68,7 +68,13 @@ user_groups:
 - Visitors
 ---
 
-I am a political scientist at the [University of Essex](https://www.essex.ac.uk/departments/government) and I am affiliated with the [Identity & Conflict Lab](https://web.sas.upenn.edu/pic-lab/) at the University of Pennsylvania. In October 2020, I will join the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-and-economics/). I have previously held positions at the [University of Exeter](https://socialsciences.exeter.ac.uk/politics/) and [Witten/Herdecke University](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-and-economics/).
+I am a political scientist at the [University of Essex](https://www.essex.ac.uk/departments/government) and I am affiliated with the [Identity & Conflict Lab](https://web.sas.upenn.edu/pic-lab/) at the University of Pennsylvania. In October 2020, I will join the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de/wirtschaft-und-gesellschaft/). I have previously held positions at the [University of Exeter](https://socialsciences.exeter.ac.uk/politics/) and [Witten/Herdecke University](https://www.uni-wh.de/wirtschaft-und-gesellschaft/).
 
-My [research](https://www.essex.ac.uk/people/borma58507/nils-christian-bormann) focuses on questions of cooperation and violent conflict in ethnically divided societies. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing. 
+My [research](https://www.essex.ac.uk/people/borma58507/nils-christian-bormann) focuses on the causes of elite cooperation and violent conflict. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing.
+
+I was recently awarded an [ERC Starting Grant](https://erc.europa.eu/news/StG-recipients-2020) for the project _Democracy, Anger, and Elite Responses (DANGER)_. With this grant I will explore if political elites' coalition choices could fend off threats to European democracies between 1919 and 1939, and see how applicable these lessons are for today. 
+
+
+
+
 
