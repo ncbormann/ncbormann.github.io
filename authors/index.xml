@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Aya Kachi</title>
       <link>/authors/aya-kachi/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/aya-kachi/</guid>
       <description></description>
     </item>
@@ -23,8 +23,24 @@
     <item>
       <title>Julian Wucherpfennig</title>
       <link>/authors/julian-wucherpfennig/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/julian-wucherpfennig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann</title>
+      <link>/authors/nils-christian-bormann/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Hunziker</title>
+      <link>/authors/philipp-hunziker/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/philipp-hunziker/</guid>
       <description></description>
     </item>
     
@@ -49,22 +65,6 @@
       <link>/authors/nicholas-sambanis/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/nicholas-sambanis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nils-Christian Bormann</title>
-      <link>/authors/nils-christian-bormann/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-christian-bormann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philipp Hunziker</title>
-      <link>/authors/philipp-hunziker/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/philipp-hunziker/</guid>
       <description></description>
     </item>
     

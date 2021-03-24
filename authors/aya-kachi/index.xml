@@ -5,12 +5,20 @@
     <link>/authors/aya-kachi/</link>
       <atom:link href="/authors/aya-kachi/index.xml" rel="self" type="application/rss+xml" />
     <description>Aya Kachi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Aya Kachi</title>
       <link>/authors/aya-kachi/</link>
     </image>
+    
+    <item>
+      <title>A Fast Estimator for Binary Choice Models with Spatial, Temporal, and Spatio-Temporal Interdependence</title>
+      <link>/publication/spatial_logit/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/spatial_logit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
