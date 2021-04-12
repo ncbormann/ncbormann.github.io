@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils-Christian Bormann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Nils-Christian Bormann</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Globalization, Institutions, and Ethnic Inequality</title>
+      <link>/publication/globalization_institutions_inequality/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/globalization_institutions_inequality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Fast Estimator for Binary Choice Models with Spatial, Temporal, and Spatio-Temporal Interdependence</title>

@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Lars-Erik Cederman</title>
+      <link>/authors/lars-erik-cederman/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/lars-erik-cederman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils B. Weidmann</title>
+      <link>/authors/nils-b.-weidmann/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-b.-weidmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann</title>
+      <link>/authors/nils-christian-bormann/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yannick I. Pengl</title>
+      <link>/authors/yannick-i.-pengl/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/yannick-i.-pengl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aya Kachi</title>
@@ -25,14 +57,6 @@
       <link>/authors/julian-wucherpfennig/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/julian-wucherpfennig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nils-Christian Bormann</title>
-      <link>/authors/nils-christian-bormann/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-christian-bormann/</guid>
       <description></description>
     </item>
     
@@ -85,14 +109,6 @@
     </item>
     
     <item>
-      <title>Lars-Erik Cederman</title>
-      <link>/authors/lars-erik-cederman/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/lars-erik-cederman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Scott Gates</title>
       <link>/authors/scott-gates/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
@@ -129,14 +145,6 @@
       <link>/authors/thomas-winzen/</link>
       <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
       <guid>/authors/thomas-winzen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nils B. Weidmann</title>
-      <link>/authors/nils-b.-weidmann/</link>
-      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-b.-weidmann/</guid>
       <description></description>
     </item>
     

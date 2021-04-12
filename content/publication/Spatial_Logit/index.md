@@ -38,9 +38,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Spatial_Logit/Spatial_Logit_Paper.pdf'
-url_code: 'https://doi.org/10.1017/pan.2020.54'
-url_dataset: 'https://doi.org/10.7910/DVN/9SKYLD'
+url_pdf: 'publication/spatial_logit/Spatial_Logit_Paper.pdf'
+url_code: 'https://doi.org/10.7910/DVN/9SKYLD'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

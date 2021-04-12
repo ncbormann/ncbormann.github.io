@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nils B. Weidmann | Nils-Christian Bormann</title>
-    <link>/authors/nils-b.-weidmann/</link>
-      <atom:link href="/authors/nils-b.-weidmann/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nils B. Weidmann</description>
+    <title>Yannick I. Pengl | Nils-Christian Bormann</title>
+    <link>/authors/yannick-i.-pengl/</link>
+      <atom:link href="/authors/yannick-i.-pengl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yannick I. Pengl</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
-      <title>Nils B. Weidmann</title>
-      <link>/authors/nils-b.-weidmann/</link>
+      <title>Yannick I. Pengl</title>
+      <link>/authors/yannick-i.-pengl/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/globalization_institutions_inequality/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/publication/globalization_institutions_inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Triangulating horizontal inequality - Toward improved conflict analysis</title>
-      <link>/publication/triangulating_horizontal_inequality/</link>
-      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/triangulating_horizontal_inequality/</guid>
       <description></description>
     </item>
     

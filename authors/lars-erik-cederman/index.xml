@@ -5,12 +5,20 @@
     <link>/authors/lars-erik-cederman/</link>
       <atom:link href="/authors/lars-erik-cederman/index.xml" rel="self" type="application/rss+xml" />
     <description>Lars-Erik Cederman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Lars-Erik Cederman</title>
       <link>/authors/lars-erik-cederman/</link>
     </image>
+    
+    <item>
+      <title>Globalization, Institutions, and Ethnic Inequality</title>
+      <link>/publication/globalization_institutions_inequality/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/globalization_institutions_inequality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Power Sharing: Institutions, Behavior, and Peace</title>
