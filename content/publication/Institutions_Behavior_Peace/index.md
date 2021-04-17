@@ -1,20 +1,7 @@
 ---
 title: "Power Sharing: Institutions, Behavior, and Peace"
-authors:
-- Nils-Christian Bormann
-- Lars-Erik Cederman
-- Scott Gates
-- Benjamin A.T. Graham
-- Simon Hug
-- Kaare W. Strom
-- Julian Wucherpfennig
+authors: ["Nils-Christian Bormann, [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), [Scott Gates](https://www.prio.org/People/Person/?x=3462), [Benjamin A.T. Graham](https://dornsife.usc.edu/graham), [Simon Hug](https://www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/), [Kaare W. Strom](http://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html), and [Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/)"]
 
-# - [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/)
-# - [Scott Gates](https://www.prio.org/People/Person/?x=3462)
-# - [Benjamin A.T. Graham](https://dornsife.usc.edu/graham)
-# - [Simon Hug](https://unige.ch/sciences-societe/speri/membres/simon-hug/)
-# - [Kaare W. Strom](http://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html)
-# - [Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/)
 
 date: "2018-12-06"
 doi: "10.1111/ajps.12407"

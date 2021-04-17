@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/), [Aya Kachi](https://www.ayakachi.org), Nils-Christian Bormann, and Philipp Hunziker | Nils-Christian Bormann</title>
+    <link>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</link>
+      <atom:link href="/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/index.xml" rel="self" type="application/rss+xml" />
+    <description>[Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/), [Aya Kachi](https://www.ayakachi.org), Nils-Christian Bormann, and Philipp Hunziker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>[Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/), [Aya Kachi](https://www.ayakachi.org), Nils-Christian Bormann, and Philipp Hunziker</title>
+      <link>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</link>
+    </image>
+    
+    <item>
+      <title>A Fast Estimator for Binary Choice Models with Spatial, Temporal, and Spatio-Temporal Interdependence</title>
+      <link>/publication/spatial_logit/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/spatial_logit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

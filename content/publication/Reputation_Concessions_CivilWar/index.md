@@ -1,8 +1,6 @@
 ---
 title: "Reputation, Concessions, and Territorial Civil War"
-authors:
-- Nils-Christian Bormann
-- Burcu Savun
+authors: ["Nils-Christian Bormann and [Burcu Savun](https://burcusavun.com)"]
 
 date: "2018-05-30"
 doi: "10.1177/0022343318767499"

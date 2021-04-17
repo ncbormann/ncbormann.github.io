@@ -1,10 +1,6 @@
 ---
 title: "Globalization, Institutions, and Ethnic Inequality"
-authors:
-- Nils-Christian Bormann
-- Yannick I. Pengl
-- Lars-Erik Cederman
-- Nils B. Weidmann
+authors: ["Nils-Christian Bormann, [Yannick I. Pengl](https://yannickpengl.com), [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), and [Nils B. Weidmann](https://www.polver.uni-konstanz.de/cnc/people/weidmann/)"]
 
 # - [Yannick I. Pengl](https://yannickpengl.com)
 # - [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/)
@@ -32,7 +28,7 @@ abstract: Recent research has shown that inequality between ethnic groups is str
 
 
 # Summary. An optional shortened abstract.
-summary: New theory and data on the development of ethnic inequality around the world, 1992-2013.
+summary: Explaining trends in ethnic inequality around the world, 1992-2013.
 
 tags:
 - Source Themes

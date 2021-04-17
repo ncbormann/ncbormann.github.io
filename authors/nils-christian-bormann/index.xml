@@ -5,28 +5,12 @@
     <link>/authors/nils-christian-bormann/</link>
       <atom:link href="/authors/nils-christian-bormann/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils-Christian Bormann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Nils-Christian Bormann</title>
       <link>/authors/nils-christian-bormann/</link>
     </image>
-    
-    <item>
-      <title>Globalization, Institutions, and Ethnic Inequality</title>
-      <link>/publication/globalization_institutions_inequality/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/globalization_institutions_inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Fast Estimator for Binary Choice Models with Spatial, Temporal, and Spatio-Temporal Interdependence</title>
-      <link>/publication/spatial_logit/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/spatial_logit/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
@@ -57,22 +41,6 @@
       <link>/publication/uncertainty_cleavages_coalitions/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/publication/uncertainty_cleavages_coalitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Sharing: Institutions, Behavior, and Peace</title>
-      <link>/publication/institutions_behavior_peace/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/institutions_behavior_peace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reputation, Concessions, and Territorial Civil War</title>
-      <link>/publication/reputation_concessions_civilwar/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/reputation_concessions_civilwar/</guid>
       <description></description>
     </item>
     

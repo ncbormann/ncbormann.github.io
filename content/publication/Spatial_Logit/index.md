@@ -1,13 +1,6 @@
 ---
 title: "A Fast Estimator for Binary Choice Models with Spatial, Temporal, and Spatio-Temporal Interdependence"
-authors:
-- Julian Wucherpfennig
-- Aya Kachi
-- Nils-Christian Bormann
-- Philipp Hunziker
-
-# - [Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/)
-# - [Aya Kachi](https://www.ayakachi.org)
+authors: ["[Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/), [Aya Kachi](https://www.ayakachi.org), Nils-Christian Bormann, and Philipp Hunziker"]
 
 date: "2021-03-24"
 doi: "10.1017/pan.2020.54"
