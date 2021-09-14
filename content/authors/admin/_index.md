@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/NCBormann-CV-210417.pdf
+  link: files/NCBormann-CV-210914.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nils.bormann@uni-wh.de"
@@ -68,11 +68,11 @@ user_groups:
 - Visitors
 ---
 
-I am a political scientist in the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de/wirtschaft-und-gesellschaft/) and I am affiliated with the [Identity & Conflict Lab](https://web.sas.upenn.edu/pic-lab/) at the University of Pennsylvania. Previously, I have held positions at the [University of Essex](https://www.essex.ac.uk/departments/government) and [University of Exeter](https://socialsciences.exeter.ac.uk/politics/).
+I am a political scientist in the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de/wirtschaft-und-gesellschaft/) and I am affiliated with the [Identity & Conflict Lab](https://web.sas.upenn.edu/pic-lab/) at the University of Pennsylvania. Previously, I held positions at the [University of Essex](https://www.essex.ac.uk/departments/government) and [University of Exeter](https://socialsciences.exeter.ac.uk/politics/) as well as fellowhships at the University of Pennsylvania's [Perry World House](https://global.upenn.edu/perryworldhouse/about-perry-world-house) and the University of Konstanz' [The Politics of Inequality Cluster](https://www.exc.uni-konstanz.de/en/inequality/about-us/).
 
-My [research](https://www.essex.ac.uk/people/borma58507/nils-christian-bormann) focuses on the causes of elite cooperation and violent conflict. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing.
+My [research](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-economics-and-society/department-of-philosophy-politics-and-economics/chair-of-international-political-studies/) focuses on the causes of elite cooperation and violent conflict. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing.
 
-I was recently awarded an [ERC Starting Grant](https://erc.europa.eu/news/StG-recipients-2020) for the project Democracy, Anger, and Elite Responses (DANGER). In the next five years, I will investigate if and how political elites' coalition choices can fend off threats to European democracies between 1919 and 1939, and how applicable these lessons are for today. 
+Currently, I am the principal investigator of the [ERC Starting Grant](https://erc.europa.eu/news/StG-recipients-2020) ''Democracy, Anger, and Elite Responses'' (DANGER). My team and I investigate how governmental coalitions in interwar Europe dealt with violent threats to democratic survival. We want to learn about successful strategies to counter violent challenges and apply these lessons to contemporary European democracies.
 
 
 
