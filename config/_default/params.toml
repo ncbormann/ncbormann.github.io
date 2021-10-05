@@ -63,11 +63,11 @@ phone = ""
 address = "Department of Philosophy, Politics & Economics, Witten/Herdecke University, Alfred-Herrhausen-Straße 50, 58448 Witten, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "Office hours by appointment."
+office_hours = "Office hours by appointment via calendly."
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
-#"https://calendly.com/ncbormann"
+appointment_url = "https://calendly.com/ncbormann/office-hours"
+
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
