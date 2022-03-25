@@ -49,15 +49,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=EP0c2lMAAAAJ&hl=en&oi=ao
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/ncbormann
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-6016-6841  
-- icon: dataverse
-  icon_pack: ai
-  link: https://dataverse.harvard.edu/dataverse/ncb  
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ncbormann
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-6016-6841  
+#- icon: dataverse
+#  icon_pack: ai
+#  link: https://dataverse.harvard.edu/dataverse/ncb  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
