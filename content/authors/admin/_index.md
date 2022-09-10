@@ -78,7 +78,7 @@ I am a political scientist in the Department of Philosophy, Politics, and Econom
 
 My [research](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-economics-and-society/department-of-philosophy-politics-and-economics/chair-of-international-political-studies/) focuses on the causes of elite cooperation and violent conflict. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing.
 
-I am the principal investigator of the [ERC Starting Grant](https://erc.europa.eu/news/StG-recipients-2020) ''Democracy, Anger, and Elite Responses'' (DANGER). My team and I investigate how government coalitions in interwar Europe dealt with violent threats to democratic survival. We want to learn about successful strategies to counter violent challenges and apply these lessons to contemporary European democracies.
+I am the principal investigator of the [ERC Starting Grant](https://erc.europa.eu/news/StG-recipients-2020) ''Democracy, Anger, and Elite Responses'' ([DANGER](https://www.erc-danger.de)). My team and I investigate how government coalitions in interwar Europe dealt with violent threats to democratic survival. We want to learn about successful strategies to counter violent challenges and apply these lessons to contemporary European democracies.
 
 
 
