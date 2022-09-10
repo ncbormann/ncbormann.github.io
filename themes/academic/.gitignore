@@ -8,3 +8,5 @@ resources/
 
 # Node
 node_modules/
+
+exampleSite/
