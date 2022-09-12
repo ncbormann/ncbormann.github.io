@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Nils-Christian Bormann and [Matt Golder](http://mattgolder.com)</title>
+      <link>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Carl Mueller-Crepon](http://www.carlmueller-crepon.org), [Yannick I. Pengl](https://yannickpengl.com), and Nils-Christian Bormann</title>
