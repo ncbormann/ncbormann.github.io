@@ -34,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'publication/Democratic_Electoral_Systems/Electoral_Systems_Paper.pdf'
-url_code: 'https://doi.org/10.7910/DVN/QLG842'
+url_pdf: 'publication/democratic_electoral_systems/Electoral_Systems_Paper.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
