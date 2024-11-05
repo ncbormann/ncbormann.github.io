@@ -18,12 +18,12 @@ organizations:
   url: "https://www.uni-wh.de/wirtschaft-und-gesellschaft/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a political scientist who studies the causes and consequences of elite power sharing, civil wars, and threats to democratic survival.
+bio: I am a political scientist who studies the relationship between power-sharing coalitions, political violence, and democratic survival.
 
 interests:
 - Power Sharing
 - Democratic Survival
-- Civil War
+- Political Violence
 - Spatial Methods and Diffusion
 
 education:
@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/NCBormann-CV-220912.pdf
+  link: files/NCBormann-CV-241105.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nils.bormann@uni-wh.de"
@@ -74,11 +74,11 @@ user_groups:
 - Visitors
 ---
 
-I am a political scientist in the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de/wirtschaft-und-gesellschaft/) and I am affiliated with the [Identity & Conflict Lab](https://web.sas.upenn.edu/pic-lab/) at the University of Pennsylvania. Previously, I held positions at the [University of Essex](https://www.essex.ac.uk/departments/government) and [University of Exeter](https://socialsciences.exeter.ac.uk/politics/) as well as fellowships at the University of Pennsylvania's [Perry World House](https://global.upenn.edu/perryworldhouse/about-perry-world-house) and the University of Konstanz' [The Politics of Inequality Cluster](https://www.exc.uni-konstanz.de/en/inequality/about-us/).
+I am a political scientist in the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de/en/contact-person/nils-bormann) and I am affiliated with the [The Politics of Inequality Cluster](https://www.exc.uni-konstanz.de/en/inequality/about-us/) at the University of Konstanz. Previously, I held positions at the [University of Essex](https://www.essex.ac.uk/departments/government) and [University of Exeter](https://spspa.exeter.ac.uk/politics/) as well as fellowships at the University of Pennsylvania's [Perry World House](https://global.upenn.edu/perryworldhouse/about-perry-world-house) and the University of Konstanz' [The Politics of Inequality Cluster](https://www.exc.uni-konstanz.de/en/inequality/about-us/).
 
-My [research](https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-economics-and-society/department-of-philosophy-politics-and-economics/chair-of-international-political-studies/) focuses on the causes of elite cooperation and violent conflict. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing.
+My research focuses on the relationship between power-sharing coalitions, political violence, and democratic survival. I investigate, for example, why political elites form multi-ethnic or ideologically cross-cutting coalitions, how these coalitions affect the likelihood of large-scale political violence and democratic survival, and what effects political violence has on the electoral support for anti-system parties.
 
-I am the principal investigator of the [ERC Starting Grant](https://erc.europa.eu/news/StG-recipients-2020) ''Democracy, Anger, and Elite Responses'' ([DANGER](https://www.erc-danger.de)). My team and I investigate how government coalitions in interwar Europe dealt with violent threats to democratic survival. We want to learn about successful strategies to counter violent challenges and apply these lessons to contemporary European democracies.
+I am the principal investigator of the [ERC Starting Grant](https://erc.europa.eu/news/StG-recipients-2020) ''Democracy, Anger, and Elite Responses'' ([DANGER](https://www.erc-danger.de)). My team and I investigate how government coalitions in interwar Europe dealt with violent threats to democratic survival. We aim to learn about successful strategies to counter violent challenges and apply these lessons to contemporary European democracies.
 
 
 

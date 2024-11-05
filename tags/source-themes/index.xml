@@ -5,12 +5,20 @@
     <link>/tags/source-themes/</link>
       <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Source Themes</title>
       <link>/tags/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Introducing the Democratic Electoral Systems data, 1919-1945</title>
+      <link>/publication/des_interwar/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/des_interwar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Democratic Electoral Systems, 1946-2020</title>

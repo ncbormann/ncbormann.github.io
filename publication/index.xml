@@ -5,12 +5,44 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Co-ethnics Co-vote in Africa - Studying Electoral Cleavages with a Co-Voting Regression Model</title>
+      <link>/publication/coethnics_covote_africa/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/coethnics_covote_africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing the Democratic Electoral Systems data, 1919-1945</title>
+      <link>/publication/des_interwar/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/des_interwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Violence and Anti-System Voting in Interwar Italy</title>
+      <link>/publication/violence_antisys_vote/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/violence_antisys_vote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe</title>
+      <link>/publication/polarization_fragmentation_deconsolidation/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/polarization_fragmentation_deconsolidation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Democratic Electoral Systems, 1946-2020</title>
@@ -41,30 +73,6 @@
       <link>/publication/spatial_logit/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/spatial_logit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
-      <link>/publication/scalable_mcem/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/scalable_mcem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outside Options: Power Sharing in the Shadow of External Intervention after Civil War</title>
-      <link>/publication/outside_options/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/outside_options/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power-Sharing Coalitions and Ethnic Armed Conflict</title>
-      <link>/publication/power_sharing_coalitions/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/power_sharing_coalitions/</guid>
       <description></description>
     </item>
     

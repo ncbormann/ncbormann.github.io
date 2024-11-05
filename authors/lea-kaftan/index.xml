@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lea Kaftan | Nils-Christian Bormann</title>
+    <link>/authors/lea-kaftan/</link>
+      <atom:link href="/authors/lea-kaftan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lea Kaftan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Lea Kaftan</title>
+      <link>/authors/lea-kaftan/</link>
+    </image>
+    
+    <item>
+      <title>Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe</title>
+      <link>/publication/polarization_fragmentation_deconsolidation/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/polarization_fragmentation_deconsolidation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

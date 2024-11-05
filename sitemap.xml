@@ -1,253 +1,149 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/democratic_electoral_systems/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/carl-mueller-creponhttp/www.carlmueller-crepon.org-yannick-i.-penglhttps/yannickpengl.com-and-nils-christian-bormann/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/leda/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/globalization_institutions_inequality/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nils-christian-bormann-yannick-i.-penglhttps/yannickpengl.com-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-and-nils-b.-weidmannhttps/www.polver.uni-konstanz.de/cnc/people/weidmann/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</loc>
-    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/spatial_logit/</loc>
-    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/research/power_sharing/</loc>
-    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/research/</loc>
-    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/data/</loc>
-    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ethnic_power_relations/</loc>
-    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/scalable_mcem/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/aya-kachi/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/carl-muller-crepon/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/coethnics_covote_africa/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nils-christian-bormann/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/des_interwar/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/bruno-della-sala/</loc>
+    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/edoardo-vigano/</loc>
+    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/violence_antisys_vote/</loc>
+    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/stefan-stojkovic/</loc>
+    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/lea-kaftan/</loc>
+    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/polarization_fragmentation_deconsolidation/</loc>
+    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/democratic_electoral_systems/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/leda/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/globalization_institutions_inequality/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/spatial_logit/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/research/power_sharing/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/research/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/data/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/ethnic_power_relations/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/democratic_electoral_systems/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/ethnic_dimensions/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/julian-wucherpfennig/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mark-toukan/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/martin-steinwand/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nicholas-sambanis/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nils-christian-bormann/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/outside_options/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/philipp-hunziker/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/power_sharing_coalitions/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/ethnic_matching/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/uncertainty_cleavages_coalitions/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nils-christian-bormann-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-scott-gateshttps/www.prio.org/people/person/x3462-benjamin-a.t.-grahamhttps/dornsife.usc.edu/graham-simon-hughttps/www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/-kaare-w.-stromhttp/polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html-and-julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/</loc>
-    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/institutions_behavior_peace/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nils-christian-bormann-and-burcu-savunhttps/burcusavun.com/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/reputation_concessions_civilwar/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/slippery_slope_diffusion/</loc>
     <lastmod>2016-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jesse-hammond/</loc>
     <lastmod>2016-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/diffusion_parliament_institutions/</loc>
     <lastmod>2016-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/thomas-winzen/</loc>
     <lastmod>2016-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/lars-erik-cederman/</loc>
     <lastmod>2015-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/nils-b.-weidmann/</loc>
     <lastmod>2015-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/triangulating_horizontal_inequality/</loc>
     <lastmod>2015-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/language_religion_civilwar/</loc>
     <lastmod>2015-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/manuel-vogt/</loc>
     <lastmod>2015-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/authors/carl-mueller-creponhttp/www.carlmueller-crepon.org-yannick-i.-penglhttps/yannickpengl.com-and-nils-christian-bormann/</loc>
+  </url><url>
+    <loc>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</loc>
+  </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/authors/nils-christian-bormann-and-burcu-savunhttps/burcusavun.com/</loc>
+  </url><url>
+    <loc>/authors/nils-christian-bormann-and-lea-kaftanhttps/leakaftan.eu/</loc>
+  </url><url>
+    <loc>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</loc>
+  </url><url>
+    <loc>/authors/nils-christian-bormann-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-scott-gateshttps/www.prio.org/people/person/x3462-benjamin-a.t.-grahamhttps/dornsife.usc.edu/graham-simon-hughttps/www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/-kaare-w.-stromhttp/polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html-and-julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/</loc>
+  </url><url>
+    <loc>/authors/nils-christian-bormann-yannick-i.-penglhttps/yannickpengl.com-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-and-nils-b.-weidmannhttps/www.polver.uni-konstanz.de/cnc/people/weidmann/</loc>
   </url>
-  
 </urlset>

@@ -5,7 +5,7 @@
     <link>/authors/nils-christian-bormann/</link>
       <atom:link href="/authors/nils-christian-bormann/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils-Christian Bormann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Nils-Christian Bormann</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
-      <link>/publication/scalable_mcem/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/scalable_mcem/</guid>
+      <title>Co-ethnics Co-vote in Africa - Studying Electoral Cleavages with a Co-Voting Regression Model</title>
+      <link>/publication/coethnics_covote_africa/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/coethnics_covote_africa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Outside Options: Power Sharing in the Shadow of External Intervention after Civil War</title>
-      <link>/publication/outside_options/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/outside_options/</guid>
+      <title>Political Violence and Anti-System Voting in Interwar Italy</title>
+      <link>/publication/violence_antisys_vote/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/violence_antisys_vote/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Power-Sharing Coalitions and Ethnic Armed Conflict</title>
-      <link>/publication/power_sharing_coalitions/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/power_sharing_coalitions/</guid>
+      <title>Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe</title>
+      <link>/publication/polarization_fragmentation_deconsolidation/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/polarization_fragmentation_deconsolidation/</guid>
       <description></description>
     </item>
     

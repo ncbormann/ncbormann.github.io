@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl Müller-Crepon | Nils-Christian Bormann</title>
+    <link>/authors/carl-muller-crepon/</link>
+      <atom:link href="/authors/carl-muller-crepon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carl Müller-Crepon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Carl Müller-Crepon</title>
+      <link>/authors/carl-muller-crepon/</link>
+    </image>
+    
+    <item>
+      <title>Co-ethnics Co-vote in Africa - Studying Electoral Cleavages with a Co-Voting Regression Model</title>
+      <link>/publication/coethnics_covote_africa/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/coethnics_covote_africa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Authors</title>
@@ -13,106 +13,50 @@
     </image>
     
     <item>
-      <title>Nils-Christian Bormann and [Matt Golder](http://mattgolder.com)</title>
-      <link>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Carl Mueller-Crepon](http://www.carlmueller-crepon.org), [Yannick I. Pengl](https://yannickpengl.com), and Nils-Christian Bormann</title>
-      <link>/authors/carl-mueller-creponhttp/www.carlmueller-crepon.org-yannick-i.-penglhttps/yannickpengl.com-and-nils-christian-bormann/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/carl-mueller-creponhttp/www.carlmueller-crepon.org-yannick-i.-penglhttps/yannickpengl.com-and-nils-christian-bormann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nils-Christian Bormann, [Yannick I. Pengl](https://yannickpengl.com), [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), and [Nils B. Weidmann](https://www.polver.uni-konstanz.de/cnc/people/weidmann/)</title>
-      <link>/authors/nils-christian-bormann-yannick-i.-penglhttps/yannickpengl.com-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-and-nils-b.-weidmannhttps/www.polver.uni-konstanz.de/cnc/people/weidmann/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-christian-bormann-yannick-i.-penglhttps/yannickpengl.com-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-and-nils-b.-weidmannhttps/www.polver.uni-konstanz.de/cnc/people/weidmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/), [Aya Kachi](https://www.ayakachi.org), Nils-Christian Bormann, and Philipp Hunziker</title>
-      <link>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aya Kachi</title>
-      <link>/authors/aya-kachi/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/aya-kachi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julian Wucherpfennig</title>
-      <link>/authors/julian-wucherpfennig/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/julian-wucherpfennig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mark Toukan</title>
-      <link>/authors/mark-toukan/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/mark-toukan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin Steinwand</title>
-      <link>/authors/martin-steinwand/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/martin-steinwand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicholas Sambanis</title>
-      <link>/authors/nicholas-sambanis/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nicholas-sambanis/</guid>
+      <title>Carl Müller-Crepon</title>
+      <link>/authors/carl-muller-crepon/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/carl-muller-crepon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nils-Christian Bormann</title>
       <link>/authors/nils-christian-bormann/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/authors/nils-christian-bormann/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Philipp Hunziker</title>
-      <link>/authors/philipp-hunziker/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/philipp-hunziker/</guid>
+      <title>Bruno Della Sala</title>
+      <link>/authors/bruno-della-sala/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/bruno-della-sala/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nils-Christian Bormann, [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), [Scott Gates](https://www.prio.org/People/Person/?x=3462), [Benjamin A.T. Graham](https://dornsife.usc.edu/graham), [Simon Hug](https://www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/), [Kaare W. Strom](http://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html), and [Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/)</title>
-      <link>/authors/nils-christian-bormann-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-scott-gateshttps/www.prio.org/people/person/x3462-benjamin-a.t.-grahamhttps/dornsife.usc.edu/graham-simon-hughttps/www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/-kaare-w.-stromhttp/polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html-and-julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-christian-bormann-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-scott-gateshttps/www.prio.org/people/person/x3462-benjamin-a.t.-grahamhttps/dornsife.usc.edu/graham-simon-hughttps/www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/-kaare-w.-stromhttp/polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html-and-julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/</guid>
+      <title>Edoardo Vigano</title>
+      <link>/authors/edoardo-vigano/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/edoardo-vigano/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nils-Christian Bormann and [Burcu Savun](https://burcusavun.com)</title>
-      <link>/authors/nils-christian-bormann-and-burcu-savunhttps/burcusavun.com/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-christian-bormann-and-burcu-savunhttps/burcusavun.com/</guid>
+      <title>Stefan Stojkovic</title>
+      <link>/authors/stefan-stojkovic/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/stefan-stojkovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lea Kaftan</title>
+      <link>/authors/lea-kaftan/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/lea-kaftan/</guid>
       <description></description>
     </item>
     
@@ -161,12 +105,66 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a political scientist in the Department of Philosophy, Politics, and Economics at &lt;a href=&#34;https://www.uni-wh.de/wirtschaft-und-gesellschaft/&#34; target=&#34;_blank&#34;&gt;Witten/Herdecke University&lt;/a&gt; and I am affiliated with the &lt;a href=&#34;https://web.sas.upenn.edu/pic-lab/&#34; target=&#34;_blank&#34;&gt;Identity &amp;amp; Conflict Lab&lt;/a&gt; at the University of Pennsylvania. Previously, I held positions at the &lt;a href=&#34;https://www.essex.ac.uk/departments/government&#34; target=&#34;_blank&#34;&gt;University of Essex&lt;/a&gt; and &lt;a href=&#34;https://socialsciences.exeter.ac.uk/politics/&#34; target=&#34;_blank&#34;&gt;University of Exeter&lt;/a&gt; as well as fellowships at the University of Pennsylvania&amp;rsquo;s &lt;a href=&#34;https://global.upenn.edu/perryworldhouse/about-perry-world-house&#34; target=&#34;_blank&#34;&gt;Perry World House&lt;/a&gt; and the University of Konstanz&amp;rsquo; &lt;a href=&#34;https://www.exc.uni-konstanz.de/en/inequality/about-us/&#34; target=&#34;_blank&#34;&gt;The Politics of Inequality Cluster&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;My &lt;a href=&#34;https://www.uni-wh.de/en/uwh-international/university/faculty-of-management-economics-and-society/department-of-philosophy-politics-and-economics/chair-of-international-political-studies/&#34; target=&#34;_blank&#34;&gt;research&lt;/a&gt; focuses on the causes of elite cooperation and violent conflict. I investigate, for example, why political elites form multi-ethnic coalitions, how economic inequality between ethnic groups develops over time, and what effects international intervention has on the stability of ethnic power sharing.&lt;/p&gt;
-
-&lt;p&gt;I am the principal investigator of the &lt;a href=&#34;https://erc.europa.eu/news/StG-recipients-2020&#34; target=&#34;_blank&#34;&gt;ERC Starting Grant&lt;/a&gt; &amp;ldquo;Democracy, Anger, and Elite Responses&amp;rdquo; (&lt;a href=&#34;https://www.erc-danger.de&#34; target=&#34;_blank&#34;&gt;DANGER&lt;/a&gt;). My team and I investigate how government coalitions in interwar Europe dealt with violent threats to democratic survival. We want to learn about successful strategies to counter violent challenges and apply these lessons to contemporary European democracies.&lt;/p&gt;
+      <description>&lt;p&gt;I am a political scientist in the Department of Philosophy, Politics, and Economics at &lt;a href=&#34;https://www.uni-wh.de/en/contact-person/nils-bormann&#34;&gt;Witten/Herdecke University&lt;/a&gt; and I am affiliated with the &lt;a href=&#34;https://www.exc.uni-konstanz.de/en/inequality/about-us/&#34;&gt;The Politics of Inequality Cluster&lt;/a&gt; at the University of Konstanz. Previously, I held positions at the &lt;a href=&#34;https://www.essex.ac.uk/departments/government&#34;&gt;University of Essex&lt;/a&gt; and &lt;a href=&#34;https://spspa.exeter.ac.uk/politics/&#34;&gt;University of Exeter&lt;/a&gt; as well as fellowships at the University of Pennsylvania&amp;rsquo;s &lt;a href=&#34;https://global.upenn.edu/perryworldhouse/about-perry-world-house&#34;&gt;Perry World House&lt;/a&gt; and the University of Konstanz&#39; &lt;a href=&#34;https://www.exc.uni-konstanz.de/en/inequality/about-us/&#34;&gt;The Politics of Inequality Cluster&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research focuses on the relationship between power-sharing coalitions, political violence, and democratic survival. I investigate, for example, why political elites form multi-ethnic or ideologically cross-cutting coalitions, how these coalitions affect the likelihood of large-scale political violence and democratic survival, and what effects political violence has on the electoral support for anti-system parties.&lt;/p&gt;
+&lt;p&gt;I am the principal investigator of the &lt;a href=&#34;https://erc.europa.eu/news/StG-recipients-2020&#34;&gt;ERC Starting Grant&lt;/a&gt; &amp;lsquo;&amp;lsquo;Democracy, Anger, and Elite Responses&amp;rsquo;&amp;rsquo; (&lt;a href=&#34;https://www.erc-danger.de&#34;&gt;DANGER&lt;/a&gt;). My team and I investigate how government coalitions in interwar Europe dealt with violent threats to democratic survival. We aim to learn about successful strategies to counter violent challenges and apply these lessons to contemporary European democracies.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>[Carl Mueller-Crepon](http://www.carlmueller-crepon.org), [Yannick I. Pengl](https://yannickpengl.com), and Nils-Christian Bormann</title>
+      <link>/authors/carl-mueller-creponhttp/www.carlmueller-crepon.org-yannick-i.-penglhttps/yannickpengl.com-and-nils-christian-bormann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/carl-mueller-creponhttp/www.carlmueller-crepon.org-yannick-i.-penglhttps/yannickpengl.com-and-nils-christian-bormann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/), [Aya Kachi](https://www.ayakachi.org), Nils-Christian Bormann, and Philipp Hunziker</title>
+      <link>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/-aya-kachihttps/www.ayakachi.org-nils-christian-bormann-and-philipp-hunziker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann and [Burcu Savun](https://burcusavun.com)</title>
+      <link>/authors/nils-christian-bormann-and-burcu-savunhttps/burcusavun.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann-and-burcu-savunhttps/burcusavun.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann and [Lea Kaftan](https://leakaftan.eu/)</title>
+      <link>/authors/nils-christian-bormann-and-lea-kaftanhttps/leakaftan.eu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann-and-lea-kaftanhttps/leakaftan.eu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann and [Matt Golder](http://mattgolder.com)</title>
+      <link>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann-and-matt-golderhttp/mattgolder.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann, [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), [Scott Gates](https://www.prio.org/People/Person/?x=3462), [Benjamin A.T. Graham](https://dornsife.usc.edu/graham), [Simon Hug](https://www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/), [Kaare W. Strom](http://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html), and [Julian Wucherpfennig](https://www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/)</title>
+      <link>/authors/nils-christian-bormann-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-scott-gateshttps/www.prio.org/people/person/x3462-benjamin-a.t.-grahamhttps/dornsife.usc.edu/graham-simon-hughttps/www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/-kaare-w.-stromhttp/polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html-and-julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-scott-gateshttps/www.prio.org/people/person/x3462-benjamin-a.t.-grahamhttps/dornsife.usc.edu/graham-simon-hughttps/www.unige.ch/sciences-societe/speri/membres/professeures-et-professeurs/simon-hug/-kaare-w.-stromhttp/polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/strom-profile.html-and-julian-wucherpfennighttps/www.hertie-school.org/en/who-we-are/profile/person/wucherpfennig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils-Christian Bormann, [Yannick I. Pengl](https://yannickpengl.com), [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/), and [Nils B. Weidmann](https://www.polver.uni-konstanz.de/cnc/people/weidmann/)</title>
+      <link>/authors/nils-christian-bormann-yannick-i.-penglhttps/yannickpengl.com-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-and-nils-b.-weidmannhttps/www.polver.uni-konstanz.de/cnc/people/weidmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann-yannick-i.-penglhttps/yannickpengl.com-lars-erik-cedermanhttps/icr.ethz.ch/people/cederman/-and-nils-b.-weidmannhttps/www.polver.uni-konstanz.de/cnc/people/weidmann/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Nils-Christian Bormann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Nils-Christian Bormann</title>
@@ -13,208 +13,26 @@
     </image>
     
     <item>
-      <title>Democratic Electoral Systems, 1946-2020</title>
-      <link>/publication/democratic_electoral_systems/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/democratic_electoral_systems/</guid>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Linking Ethnic Data from Africa</title>
-      <link>/publication/leda/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/leda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Globalization, Institutions, and Ethnic Inequality</title>
-      <link>/publication/globalization_institutions_inequality/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/globalization_institutions_inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Fast Estimator for Binary Choice Models with Spatial, Temporal, and Spatio-Temporal Interdependence</title>
-      <link>/publication/spatial_logit/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/spatial_logit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Sharing</title>
-      <link>/research/power_sharing/</link>
+      <title>Researches</title>
+      <link>/research/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/research/power_sharing/</guid>
-      <description>
-
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-
-&lt;p&gt;Warum bilden politische Eliten verschiedener ethnischer Gruppen Regierungskoalitionen? Und unter welchen Umständen verhindern diese multiethnischen Koalitionen politische Gewalt? Diese Fragen besitzen eine große Wichtigkeit für die Stabilität vieler Entwicklungsländer. Mit Hilfe von globalen Daten und Fallstudien untersuchen wir die Faktoren, die Elitenkoalitionen in multiethnischen Gesellschaften begünstigen oder verhindern. Eine wichtige Rolle spielen dabei gemeinsame Identitätsmarker und formale Institutionen. Bisherige Erkenntnisse sind im Journal of Politics und dem American Journal of Political Science veröffentlicht worden. Weitere Studien zum Thema liegen als Working Paper hier und hier vor. Eine Studie im Journal of Conflict Resolution erklärt die Rolle von Identitätsmarkern (wie Sprache und Religion) in der Entstehung bewaffneter Konflikte unabhängig von Koalitionsdynamiken.&lt;/p&gt;
-
-&lt;p&gt;Why and when do ethnically diverse political leaders form power-sharing coalitions? If exclusion of ethnic groups from&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.electstud.2013.01.005&#34; target=&#34;_blank&#34;&gt;Journal of Politics&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/research/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Ethnic Power Relations (EPR) Dataset Family 2019</title>
-      <link>/project/ethnic_power_relations/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/project/ethnic_power_relations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scalable MCEM Estimator for Spatio-Temporal Autoregressive Models</title>
-      <link>/publication/scalable_mcem/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/scalable_mcem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Democratic Electoral Systems</title>
-      <link>/project/democratic_electoral_systems/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/democratic_electoral_systems/</guid>
-      <description>
-
-&lt;p&gt;Joint work with &lt;a href=&#34;http://mattgolder.com&#34; target=&#34;_blank&#34;&gt;Matt Golder&lt;/a&gt; (Pennsylvania State University).&lt;/p&gt;
-
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-
-&lt;p&gt;Elections are a defining feature of contemporary democracies. The precise rules governing elections can have an important impact on a diverse set of outcomes related to things like identity formation, political representation and accountability, economic policy, public goods provision, coalition formation, levels of corruption, party systems, and various forms of voter behavior. This resource constitutes the latest version of &lt;a href=&#34;https://doi.org/10.1016/j.electstud.2022.102487&#34; target=&#34;_blank&#34;&gt;Bormann and Golder&amp;rsquo;s (2020)&lt;/a&gt; widely used Democratic Electoral Systems (DES) dataset, which provides detailed information on the electoral rules used in all democratic elections around the world as well as the size of party systems.&lt;/p&gt;
-
-&lt;p&gt;Version 4.0 of the DES dataset covers democratic elections from 1946 (or independence) through 2020, and provides information on 1,563 legislative elections and 592 first-round presidential elections. Unlike previous versions, the DES dataset now includes information on all elections that are considered democratic by at least one of five different measures of regime type: Democracy and Dictatorship (DD), Freedom House (FH), Polity5, Boix-Miller-Rosato (BMR), and Varieties of Democracy (V-Dem).&lt;/p&gt;
-
-&lt;p&gt;All versions of the dataset are available on &lt;a href=&#34;http://mattgolder.com/elections&#34; target=&#34;_blank&#34;&gt;Matt&amp;rsquo;s homepage&lt;/a&gt;. You can find the shiny app to explore the data in greater detail &lt;a href=&#34;https://ncb13.shinyapps.io/ParlElections/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ethnic Dimensions Data</title>
-      <link>/project/ethnic_dimensions/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/ethnic_dimensions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outside Options: Power Sharing in the Shadow of External Intervention after Civil War</title>
-      <link>/publication/outside_options/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/outside_options/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power-Sharing Coalitions and Ethnic Armed Conflict</title>
-      <link>/publication/power_sharing_coalitions/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/power_sharing_coalitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linking Ethnic Data from Africa</title>
-      <link>/project/ethnic_matching/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/project/ethnic_matching/</guid>
-      <description>
-
-&lt;p&gt;Joint work with &lt;a href=&#34;http://www.carlmueller-crepon.org&#34; target=&#34;_blank&#34;&gt;Carl Müller-Crepon&lt;/a&gt; (ETH Zürich &amp;amp; Harvard) and &lt;a href=&#34;https://icr.ethz.ch/people/pengl/&#34; target=&#34;_blank&#34;&gt;Yannick Pengl&lt;/a&gt; (ETH Zürich).&lt;/p&gt;
-
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-
-&lt;p&gt;Ethnic identities structure social space. Social scientists have therefore assembled many
-high-quality datasets on ethnic groups, in particular covering African countries.
-However, the integration of these datasets has not yet been brought to its full potential.
-We propose a consistent and comprehensive matching of 10&amp;rsquo;000 ethnic categories in the
-eleven most prominent datasets. We first match all ethnic categories to the linguistic
-database Ethnologue. We leverage this set of all known languages as an intermediate
-dictionary to provide a link between any two groups in the original data. Leveraging the
-structure of the linguistic trees, we can match ethnic groups on multiple levels of
-aggregation and take into account linguistic distances between them. This will help
-researchers to make the most out of the available data on ethnic groups in Africa.&lt;/p&gt;
-
-&lt;h3 id=&#34;interlinked-datasets&#34;&gt;Interlinked datasets&lt;/h3&gt;
-
-&lt;p&gt;In total, we link ethnic lists drawn from eleven data sources:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.afrobarometer.org/&#34; target=&#34;_blank&#34;&gt;Afrobarometer Surveys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cidcm.umd.edu/research/all-minorities-risk-project&#34; target=&#34;_blank&#34;&gt;All Minorities at Risk (AMAR)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://international.ipums.org/international/index.shtml&#34; target=&#34;_blank&#34;&gt;Census data from IPUMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://growup.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Ethnic Power Relations Dataset&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ethnologue.com/&#34; target=&#34;_blank&#34;&gt;Ethnologue languages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ethnic groups in &lt;a href=&#34;https://doi.org/10.3982/ECTA11237&#34; target=&#34;_blank&#34;&gt;Francois, Trebbi &amp;amp; Rainer (2015)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ethnic groups from &lt;a href=&#34;https://web.stanford.edu/group/ethnic/publicdata/publicdata.html&#34; target=&#34;_blank&#34;&gt;Fearon (2003)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://icr.ethz.ch/data/greg/&#34; target=&#34;_blank&#34;&gt;GREG Data&lt;/a&gt; (based on the Russian Atlas Miradova)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dhsprogram.com/data/&#34; target=&#34;_blank&#34;&gt;Demographic and Health Surveys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://worldmap.harvard.edu/data/geonode:Murdock_EA_2011_vkZ&#34; target=&#34;_blank&#34;&gt;Murdock Atlas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://side.ethz.ch&#34; target=&#34;_blank&#34;&gt;Spatially Interpolated Data on Ethnicity (SIDE)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Uncertainty, Cleavages, and Ethnic Coalitions</title>
-      <link>/publication/uncertainty_cleavages_coalitions/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/uncertainty_cleavages_coalitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Sharing: Institutions, Behavior, and Peace</title>
-      <link>/publication/institutions_behavior_peace/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/institutions_behavior_peace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reputation, Concessions, and Territorial Civil War</title>
-      <link>/publication/reputation_concessions_civilwar/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/reputation_concessions_civilwar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Slippery Slope: The Domestic Diffusion of Ethnic Civil War</title>
-      <link>/publication/slippery_slope_diffusion/</link>
-      <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/slippery_slope_diffusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Contingent Diffusion of Parliamentary Oversight Institutions in the European Union</title>
-      <link>/publication/diffusion_parliament_institutions/</link>
-      <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/diffusion_parliament_institutions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Triangulating horizontal inequality - Toward improved conflict analysis</title>
-      <link>/publication/triangulating_horizontal_inequality/</link>
-      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/triangulating_horizontal_inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language, Religion, and Ethnic Civil War</title>
-      <link>/publication/language_religion_civilwar/</link>
-      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/language_religion_civilwar/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
