@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: 'publication/polarization_fragmentation_deconsolidation/Kaftan_Bormann-Polarization_Fragmentation_and_Deconsolidation.PDF'
+url_pdf: 'publication/polarization_fragmentation_deconsolidation/Kaftan_Bormann-Polarization_Fragmentation_and_Deconsolidation.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
