@@ -39,7 +39,7 @@ featured: false
 #   url: ""
 url_pdf: '/home/ncb/Website/content/publication/des_interwar/DES_interwar_paper.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://doi.org/10.7910/DVN/FWLXHM'
 url_poster: ''
 url_project: ''
 url_slides: ''
