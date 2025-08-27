@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Projects</title>
@@ -13,24 +13,36 @@
     </image>
     
     <item>
+      <title>Democratic Electoral Systems</title>
+      <link>/project/democratic_electoral_systems/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/project/democratic_electoral_systems/</guid>
+      <description>&lt;p&gt;Joint work with &lt;a href=&#34;http://mattgolder.com&#34;&gt;Matt Golder&lt;/a&gt; (Pennsylvania State University).&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Elections are a defining feature of contemporary democracies. The precise rules governing elections can have an important impact on a diverse set of outcomes related to things like identity formation, political representation and accountability, economic policy, public goods provision, coalition formation, levels of corruption, party systems, and various forms of voter behavior. This resource constitutes the latest version of &lt;a href=&#34;https://doi.org/10.1016/j.electstud.2022.102487&#34;&gt;Bormann and Golder&amp;rsquo;s (2022)&lt;/a&gt; widely used Democratic Electoral Systems (DES) dataset, which provides detailed information on the electoral rules used in all democratic elections around the world as well as the size of party systems.&lt;/p&gt;
+&lt;p&gt;Version 5.0 of the DES dataset covers democratic elections from 1919 (or independence) through 2020, and provides information on 1,826 lower-house legislative elections and 648 first-round presidential elections. The period 1919 to 1945 was added by &lt;a href=&#34;https://open-research-europe.ec.europa.eu/articles/4-73&#34;&gt;Bormann and Kaftan (2024)&lt;/a&gt;. The DES dataset includes information on all elections that are considered democratic by at least one of five different measures of regime type: Democracy and Dictatorship (DD), Freedom House (FH), Polity5, Boix-Miller-Rosato (BMR), and Varieties of Democracy (V-Dem).&lt;/p&gt;
+&lt;p&gt;All versions of the dataset are available on &lt;a href=&#34;http://mattgolder.com/elections&#34;&gt;Matt&amp;rsquo;s homepage&lt;/a&gt;. You can find the shiny app to explore the data in greater detail &lt;a href=&#34;https://ncb13.shinyapps.io/ParlElections/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Archive of Interwar Europe Election Data &amp; Assemblies (AIEEDA)</title>
+      <link>/project/aieeda/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/project/aieeda/</guid>
+      <description>&lt;p&gt;Joint work with &lt;a href=&#34;https://leakaftan.eu/&#34;&gt;Lea Kaftan&lt;/a&gt; (GESIS Cologne), Bruno Della Sala, Olga Jerjomina, Stefan Stojkovic, and &lt;a href=&#34;https://eavigano.github.io/&#34;&gt;Edoardo A Alberto&lt;/a&gt; (all Witten/Herdecke University).&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;The Archive of Interwar Europe Election Data and Assemblies (AIEEDA) is a multi-level dataset of parliamentary elections in interwar Europe (1919-1939). The data contains electoral results for all parties that ran in 137 national parliamentary elections in 25 interwar European democracies. It further offers detailed time-invariant ideological and organizational variables for 401 parliamentary parties and 35 party alliances, along with time-variant data on their participation in 412 cabinets. Next to national-level election results, we provide disaggregated constituency/municipality-level results for Estonia, Ireland, Italy, Latvia, the Netherlands, and Yugoslavia. Having collected national and disaggregated data independently, we validated each through the other. We also provide linking tables to parliamentary election results at the constituency/municipality-level for France, Germany, and the United Kingdom. The archive will be useful to social scientists interested in testing theories on voting and party politics out of sample in a historical setting, or to use historical cases to understand contemporary phenomena such as the rise of radical right-wing parties.&lt;/p&gt;
+&lt;p&gt;You can download the data &lt;a href=&#34;https://doi.org/10.17605/OSF.IO/QS3DG&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ethnic Power Relations (EPR) Dataset Family 2019</title>
       <link>/project/ethnic_power_relations/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/ethnic_power_relations/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Democratic Electoral Systems</title>
-      <link>/project/democratic_electoral_systems/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/democratic_electoral_systems/</guid>
-      <description>&lt;p&gt;Joint work with &lt;a href=&#34;http://mattgolder.com&#34;&gt;Matt Golder&lt;/a&gt; (Pennsylvania State University).&lt;/p&gt;
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;Elections are a defining feature of contemporary democracies. The precise rules governing elections can have an important impact on a diverse set of outcomes related to things like identity formation, political representation and accountability, economic policy, public goods provision, coalition formation, levels of corruption, party systems, and various forms of voter behavior. This resource constitutes the latest version of &lt;a href=&#34;https://doi.org/10.1016/j.electstud.2022.102487&#34;&gt;Bormann and Golder&amp;rsquo;s (2020)&lt;/a&gt; widely used Democratic Electoral Systems (DES) dataset, which provides detailed information on the electoral rules used in all democratic elections around the world as well as the size of party systems.&lt;/p&gt;
-&lt;p&gt;Version 4.0 of the DES dataset covers democratic elections from 1946 (or independence) through 2020, and provides information on 1,563 legislative elections and 592 first-round presidential elections. Unlike previous versions, the DES dataset now includes information on all elections that are considered democratic by at least one of five different measures of regime type: Democracy and Dictatorship (DD), Freedom House (FH), Polity5, Boix-Miller-Rosato (BMR), and Varieties of Democracy (V-Dem).&lt;/p&gt;
-&lt;p&gt;All versions of the dataset are available on &lt;a href=&#34;http://mattgolder.com/elections&#34;&gt;Matt&amp;rsquo;s homepage&lt;/a&gt;. You can find the shiny app to explore the data in greater detail &lt;a href=&#34;https://ncb13.shinyapps.io/ParlElections/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
