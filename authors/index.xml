@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Authors</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Carl Müller-Crepon</title>
-      <link>/authors/carl-muller-crepon/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/carl-muller-crepon/</guid>
+      <title>Nils-Christian Bormann</title>
+      <link>/authors/nils-christian-bormann/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/nils-christian-bormann/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nils-Christian Bormann</title>
-      <link>/authors/nils-christian-bormann/</link>
+      <title>Carl Müller-Crepon</title>
+      <link>/authors/carl-muller-crepon/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/nils-christian-bormann/</guid>
+      <guid>/authors/carl-muller-crepon/</guid>
       <description></description>
     </item>
     
