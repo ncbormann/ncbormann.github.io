@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 # url: ""
-url_pdf: 'publication/russia_expert_survey/bormann-expertsurvey_report-251003.pdf'
+url_pdf: 'publication/russia_expert_survey/Bormann-expertsurvey_report-251003.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
