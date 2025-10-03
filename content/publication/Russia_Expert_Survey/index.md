@@ -1,5 +1,5 @@
 ---
-title: "Conflict Rist between the Russian Federation and any EU state: An Expert Survey"
+title: "Conflict Risk between the Russian Federation and any EU state: An Expert Survey"
 authors:
 - Nils-Christian Bormann
 
