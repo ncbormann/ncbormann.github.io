@@ -5,12 +5,20 @@
     <link>/authors/manuel-vogt/</link>
       <atom:link href="/authors/manuel-vogt/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Vogt</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Manuel Vogt</title>
       <link>/authors/manuel-vogt/</link>
     </image>
+    
+    <item>
+      <title>Getting Religion Wrong: A Response to Toft&#39;s &#39;Getting Religion Right&#39;</title>
+      <link>/publication/getting_religion_wrong/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/getting_religion_wrong/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language, Religion, and Ethnic Civil War</title>

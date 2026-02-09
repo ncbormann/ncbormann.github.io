@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>Authors</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Jinhyuk Jang</title>
+      <link>/authors/jinhyuk-jang/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/jinhyuk-jang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nils-Christian Bormann</title>
       <link>/authors/nils-christian-bormann/</link>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
       <guid>/authors/nils-christian-bormann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sona N. Golder</title>
+      <link>/authors/sona-n.-golder/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/sona-n.-golder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Hug</title>
+      <link>/authors/simon-hug/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/simon-hug/</guid>
       <description></description>
     </item>
     
@@ -25,6 +49,22 @@
       <link>/authors/carl-muller-crepon/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/authors/carl-muller-crepon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars-Erik Cederman</title>
+      <link>/authors/lars-erik-cederman/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/lars-erik-cederman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Vogt</title>
+      <link>/authors/manuel-vogt/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/manuel-vogt/</guid>
       <description></description>
     </item>
     
@@ -45,26 +85,10 @@
     </item>
     
     <item>
-      <title>Lars-Erik Cederman</title>
-      <link>/authors/lars-erik-cederman/</link>
-      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/lars-erik-cederman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nils B. Weidmann</title>
       <link>/authors/nils-b.-weidmann/</link>
       <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
       <guid>/authors/nils-b.-weidmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manuel Vogt</title>
-      <link>/authors/manuel-vogt/</link>
-      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/manuel-vogt/</guid>
       <description></description>
     </item>
     

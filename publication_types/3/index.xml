@@ -5,12 +5,20 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>3</title>
       <link>/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Is there a Prime Ministerial Party Advantage in Portfolio Allocation? How the Cases You Choose Affect the Answers You Get</title>
+      <link>/publication/global_portfolio_allocation/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/global_portfolio_allocation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conflict Risk between the Russian Federation and any EU state: An Expert Survey</title>
@@ -25,6 +33,14 @@
       <link>/publication/coethnics_covote_africa/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/publication/coethnics_covote_africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Religion Wrong: A Response to Toft&#39;s &#39;Getting Religion Right&#39;</title>
+      <link>/publication/getting_religion_wrong/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/getting_religion_wrong/</guid>
       <description></description>
     </item>
     
