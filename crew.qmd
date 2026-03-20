@@ -47,7 +47,7 @@ Johannes Vüllers studies contentious politics, civil wars, and conflict resolut
 
 ::: {.crow-card}
 
-![](assets/crow/Bormann.jpg){.crow-photo fig-alt="Nils-Christian Bormann"}
+![](assets/crow/Bormann-web.jpg){.crow-photo fig-alt="Nils-Christian Bormann"}
 
 ::: {.crow-name}
 Nils-Christian Bormann

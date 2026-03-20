@@ -18,7 +18,7 @@ I am Professor of International Political Studies in the Department of Philosoph
 :::
 
 ::: {.hero-photo}
-![](assets/profile.JPG){fig-alt="Nils-Christian Bormann"}
+![](assets/profile-web.jpg){fig-alt="Nils-Christian Bormann"}
 :::
 
 :::
