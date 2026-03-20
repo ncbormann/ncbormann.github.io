@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "quarto-preview",
+      "runtimeExecutable": "/usr/lib/rstudio/resources/app/bin/quarto/bin/quarto",
+      "runtimeArgs": ["preview", "--no-browser", "--port", "4242"],
+      "port": 4242
+    },
+    {
+      "name": "des-shiny",
+      "runtimeExecutable": "Rscript",
+      "runtimeArgs": ["-e", "shiny::runApp('/home/ncb/Dropbox/Shiny/DES', port=7654, host='0.0.0.0', launch.browser=FALSE)"],
+      "port": 7654
+    }
+  ]
+}

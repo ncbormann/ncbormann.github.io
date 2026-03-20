@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:journals.sagepub.com)",
+      "WebFetch(domain:academic.oup.com)",
+      "WebFetch(domain:ncbormann.github.io)",
+      "Read(//home/ncb/Dropbox/ElectoralSystems/data/**)",
+      "Bash(python3 -c \":*)",
+      "Bash(Rscript -e \"pkgs <- c\\(''shiny'',''leaflet'',''sf'',''rnaturalearth'',''rnaturalearthdata'',''dplyr'',''countrycode'',''htmltools''\\); installed <- pkgs %in% rownames\\(installed.packages\\(\\)\\); names\\(installed\\) <- pkgs; print\\(installed\\)\")",
+      "Bash(Rscript prepare_maps.R)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:7654)",
+      "Bash(Rscript -e \":*)",
+      "Bash(curl -s http://localhost:7654)"
+    ]
+  }
+}

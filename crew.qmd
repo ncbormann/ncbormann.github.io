@@ -1,0 +1,66 @@
+---
+title: "Conflict Research Exchange Workshop (CREW)"
+page-layout: full
+---
+
+Founded in 2022, the **Conflict Research Exchange Workshop (CREW)** brings together political scientists from the University of Osnabrück, the University of Duisburg-Essen, and Witten/Herdecke University to discuss ongoing research and new ideas. It aims to give regular feedback to its participants, in particular to emerging scholars at the PhD and post-doctoral levels in the fields of conflict research and contentious politics. Online workshops take place monthly. Once a year, we organize a joint retreat.
+
+## Members {.section-heading}
+
+::: {.crow-grid}
+
+::: {.crow-card}
+
+![](assets/crow/DeJuan.jpg){.crow-photo fig-alt="Alexander De Juan"}
+
+::: {.crow-name}
+Alexander De Juan
+:::
+
+::: {.crow-affil}
+Professor of Comparative Politics, University of Osnabrück
+:::
+
+::: {.crow-bio}
+Alexander De Juan's research focuses on political attitudes and behavior in the context of conflict and autocratic rule with a particular interest in historical episodes of contention.
+:::
+
+:::
+
+::: {.crow-card}
+
+![](assets/crow/Vuellers.jpg){.crow-photo fig-alt="Johannes Vüllers"}
+
+::: {.crow-name}
+Johannes Vüllers
+:::
+
+::: {.crow-affil}
+Professor of International Relations, University of Duisburg-Essen
+:::
+
+::: {.crow-bio}
+Johannes Vüllers studies contentious politics, civil wars, and conflict resolution with a regional expertise on Southeast Asia.
+:::
+
+:::
+
+::: {.crow-card}
+
+![](assets/crow/Bormann.jpg){.crow-photo fig-alt="Nils-Christian Bormann"}
+
+::: {.crow-name}
+Nils-Christian Bormann
+:::
+
+::: {.crow-affil}
+Professor of International Political Studies, Witten/Herdecke University
+:::
+
+::: {.crow-bio}
+Nils-Christian Bormann investigates the causes and consequences of political violence, power-sharing coalitions, and group-based inequality.
+:::
+
+:::
+
+:::

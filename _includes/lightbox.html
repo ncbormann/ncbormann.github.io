@@ -1,0 +1,18 @@
+<!-- GLightbox -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css"/>
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Wrap every pub thumbnail in a glightbox anchor
+    document.querySelectorAll('.pub-thumb-img').forEach(function (img) {
+      if (img.closest('a')) return; // already wrapped
+      var a = document.createElement('a');
+      a.href = img.src;
+      a.className = 'glightbox';
+      a.setAttribute('data-type', 'image');
+      img.parentNode.insertBefore(a, img);
+      a.appendChild(img);
+    });
+    GLightbox({ selector: '.glightbox' });
+  });
+</script>

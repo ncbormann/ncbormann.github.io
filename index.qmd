@@ -1,0 +1,83 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+
+::: {.hero-text}
+# Nils-Christian Bormann
+
+::: {.subtitle}
+Department of Philosophy, Politics, and Economics · Witten/Herdecke University
+:::
+
+I am Professor of International Political Studies in the Department of Philosophy, Politics, and Economics at [Witten/Herdecke University](https://www.uni-wh.de) and an affiliate at the [Politics of Inequality Cluster](https://www.exc.uni-konstanz.de/inequality/) at the University of Konstanz. I study political violence, ethnic politics, power-sharing coalitions, and democratic survival. My research has been published in the *American Journal of Political Science*, the *American Political Science Review*, the *Journal of Politics*, and has been supported by the European Research Council.
+
+[CV](assets/CV.pdf){.btn .btn-outline-secondary .btn-sm target="_blank"}
+:::
+
+::: {.hero-photo}
+![](assets/profile.JPG){fig-alt="Nils-Christian Bormann"}
+:::
+
+:::
+
+<!-- RECENT PUBLICATIONS — uncomment to reactivate
+
+## Recent Publications {.section-heading}
+
+::: {.pub-card}
+::: {.pub-title}
+Probing PR: Does proportional representation induce ethnic power sharing and reduce conflict?
+:::
+::: {.pub-authors}
+Nils-Christian Bormann & Simon Hug
+:::
+::: {.pub-venue}
+*Research & Politics*, 12(4), 2025, pp. 1–7
+:::
+::: {.pub-links}
+[PDF](https://journals.sagepub.com/doi/epub/10.1177/20531680251389184){.pub-link target="_blank"}
+[DOI](https://doi.org/10.1177/20531680251389184){.pub-link target="_blank"}
+[Replication Data](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/XFDOTX){.pub-link target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Political violence and anti-system voting in interwar Italy
+:::
+::: {.pub-authors}
+Edoardo Alberto Viganò, Bruno Della Sala, Stefan Stojkovic & Nils-Christian Bormann
+:::
+::: {.pub-venue}
+*Journal of Peace Research*, 62(5), 2025, pp. 1581–1596
+:::
+::: {.pub-links}
+[PDF](papers/ViganoEtAl-Political_Violence_and_Antisystem_Voting-JPR2025.pdf){.pub-link target="_blank"}
+[DOI](https://doi.org/10.1177/00223433251347763){.pub-link target="_blank"}
+[Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TZAGJD){.pub-link target="_blank"}
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Polarization, fragmentation, and democratic deconsolidation in interwar Europe
+:::
+::: {.pub-authors}
+Lea Kaftan & Nils-Christian Bormann
+:::
+::: {.pub-venue}
+*Democratization*, Online First, 2025, pp. 1–24
+:::
+::: {.pub-links}
+[PDF](papers/Kaftan_Bormann-Polarization_Fragmentation_and_Deconsolidation.pdf){.pub-link target="_blank"}
+[DOI](https://doi.org/10.1080/13510347.2025.2537218){.pub-link target="_blank"}
+[Replication Data](https://osf.io/dr7vh/files/osfstorage){.pub-link target="_blank"}
+:::
+:::
+
+[See all publications →](research.qmd){.see-all}
+
+-->

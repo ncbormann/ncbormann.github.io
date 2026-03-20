@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Nils-Christian Bormann"
+  site-url: https://ncbormann.github.io
+  favicon: assets/favicon.ico
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Data"
+        href: data.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CREW"
+        href: crew.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+    right:
+      - icon: file-earmark-person
+        href: assets/CV.pdf
+        aria-label: "Download CV"
+        target: _blank
+      - icon: envelope
+        href: mailto:nils.bormann@uni-wh.de
+        aria-label: "Email"
+      - icon: google
+        href: https://scholar.google.com/citations?user=EP0c2lMAAAAJ&hl=de
+        aria-label: "Google Scholar"
+        target: _blank
+  page-footer:
+    left: "© 2026 Nils-Christian Bormann"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [flatly, assets/custom.scss]
+    css: assets/custom.css
+    toc: false
+    smooth-scroll: true
+    anchor-sections: false
+    include-after-body: _includes/lightbox.html

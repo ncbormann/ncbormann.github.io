@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+page-layout: full
+---
+
+Below you find some of the classes I teach regularly. I am open to supervising BA, MA, or PhD theses with an empirical focus. If you are interested in working with me, prepare a short overview of the research question you are interested in, and how you would like to investigate it.
+
+If you would like to discuss teaching or study-related issues please sign up for office hours [here](https://calendly.com/ncbormann/office-hours){target="_blank"}.
+
+## Courses {.section-heading}
+
+::: {.teaching-table}
+
+| Course | Level | Syllabus |
+|--------|-------|----------|
+| Comparative Politics | B.A. | [PDF](assets/syllabi/UWH-ComparativePolitics_UG-Spring2026.pdf){.pub-link target="_blank"} |
+| International Relations | B.A. | [PDF](assets/syllabi/UWH-International_Relations_UG-Spring2026.pdf){.pub-link target="_blank"} |
+| Introductory International Relations | M.A. | [PDF](assets/syllabi/UWH-PPE-IntroductoryInternationalRelations-Syllabus-2026.pdf){.pub-link target="_blank"} |
+| Advanced International Relations | M.A. | [PDF](assets/syllabi/UWH-PPE-Advanced_IR-Syllabus-2026.pdf){.pub-link target="_blank"} |
+
+:::
