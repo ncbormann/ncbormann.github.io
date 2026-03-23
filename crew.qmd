@@ -29,6 +29,26 @@ Alexander De Juan's research focuses on political attitudes and behavior in the 
 
 ::: {.crow-card}
 
+![](assets/crow/Klebe.png){.crow-photo fig-alt="Finn Klebe"}
+
+::: {.crow-name}
+Finn Klebe
+:::
+
+::: {.crow-affil}
+Post-Doc, University of Osnabrück
+:::
+
+::: {.crow-bio}
+Finn Klebe’s research examines contentious politics, repression, and civil war dynamics, focusing on organizational relations and their impact on conflict escalation, democratization, and post-conflict political attitudes. 
+:::
+
+:::
+
+
+
+::: {.crow-card}
+
 ![](assets/crow/Vuellers.jpg){.crow-photo fig-alt="Johannes Vüllers"}
 
 ::: {.crow-name}
