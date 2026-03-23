@@ -63,4 +63,24 @@ Nils-Christian Bormann investigates the causes and consequences of political vio
 
 :::
 
+
+::: {.crow-card}
+
+![](assets/crow/Hummler.jpg){.crow-photo fig-alt="Teresa Hummler"}
+
+::: {.crow-name}
+Teresa Hummler
+:::
+
+::: {.crow-affil}
+Post-Doc, University of Duisburg Essen
+:::
+
+::: {.crow-bio}
+Teresa Hummler is studying the influence of contentious politics on organizational development and individual political attitudes. In her PhD thesis, she investigated how neighborhood characteristics shape individuals’ political support. 
+:::
+
+:::
+
+
 :::

@@ -131,8 +131,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../crow.html" rel="" target="">
- <span class="menu-text">CROW</span></a>
+    <a class="nav-link" href="../crew.html" rel="" target="">
+ <span class="menu-text">CREW</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../blog/index.html" rel="" target="" aria-current="page">
@@ -200,6 +200,24 @@ ul.task-list li input[type="checkbox"] {
 No matching items
 </div>
 </div></main> <!-- /main -->
+<!-- GLightbox -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Wrap every pub thumbnail in a glightbox anchor
+    document.querySelectorAll('.pub-thumb-img').forEach(function (img) {
+      if (img.closest('a')) return; // already wrapped
+      var a = document.createElement('a');
+      a.href = img.src;
+      a.className = 'glightbox';
+      a.setAttribute('data-type', 'image');
+      img.parentNode.insertBefore(a, img);
+      a.appendChild(img);
+    });
+    GLightbox({ selector: '.glightbox' });
+  });
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
