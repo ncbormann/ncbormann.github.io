@@ -82,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -206,7 +206,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -235,7 +235,31 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1776038400000" data-listing-file-modified-sort="1776093249518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="817">
+<div class="thumbnail"><a href="../blog/2026-04-13-covoting/index.html" class="no-external">
 
+<p class="card-img-top"><img loading='lazy' src="2026-04-13-covoting/figure1b.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/2026-04-13-covoting/index.html" class="no-external">Measuring the Ethno-Linguistic Fractionalization (ELF) Index at the Micro-Level</a>
+</h3>
+<div class="delink listing-description"><a href="../blog/2026-04-13-covoting/index.html" class="no-external">
+In their influential 1997 Quarterly Journal of Economics study, Easterly and Levine describe the Ethno-Linguistic Fractionalization (ELF) index as “a measure of…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../blog/2026-04-13-covoting/index.html" class="no-external">
+<div class="listing-date">
+Apr 13, 2026
+</div>
+<div class="listing-author">
+Nils-Christian Bormann
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
