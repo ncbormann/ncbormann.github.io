@@ -36,20 +36,6 @@ Working Paper, 2025
 :::
 :::
 
-::: {.pub-card}
-::: {.pub-title}
-Coethnics Covote in Africa: Studying Electoral Cleavages with a Co-Voting Regression Model
-:::
-::: {.pub-authors}
-Carl Müller-Crepon & Nils-Christian Bormann
-:::
-::: {.pub-venue}
-Afrobarometer Working Paper 221, 2024
-:::
-::: {.pub-links}
-[Working Paper](https://www.afrobarometer.org/publication/wp221-coethnics-covote-in-africa/){.pub-link target="_blank"}
-:::
-:::
 
 ::: {.pub-card}
 ::: {.pub-title}
@@ -95,6 +81,7 @@ Carl Müller-Crepon & Nils-Christian Bormann
 [DOI](https://doi.org/10.1017/S0003055426101579){.pub-link target="_blank"}
 [Appendix](papers/Mueller-Crepon_Bormann-co-Ethnics_co-vote_in_Africa-March2026-Appendix.pdf){.pub-link target="_blank"}
 [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F74D0){.pub-link target="_blank"}
+[Working Paper](https://www.afrobarometer.org/publication/wp221-coethnics-covote-in-africa/){.pub-link target="_blank"}
 :::
 :::
 :::
