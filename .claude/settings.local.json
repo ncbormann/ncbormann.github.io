@@ -11,7 +11,12 @@
       "mcp__Claude_Preview__preview_start",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:7654)",
       "Bash(Rscript -e \":*)",
-      "Bash(curl -s http://localhost:7654)"
+      "Bash(curl -s http://localhost:7654)",
+      "Read(//home/ncb/Dropbox/Documents/Academics/research/25-2-Nazihunt/data/**)",
+      "Bash(python3 -m pip install odfpy -q)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(sudo apt-get:*)"
     ]
   }
 }
