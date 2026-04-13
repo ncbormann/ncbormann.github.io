@@ -19,7 +19,7 @@ website:
       - text: "CREW"
         href: crew.qmd
       - text: "Blog"
-        href: blog/index.qmd
+        href: blog/2026-04-13-covoting/index.qmd
     right:
       - icon: file-earmark-person
         href: assets/CV.pdf

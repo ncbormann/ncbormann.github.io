@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.353">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Nils-Christian Bormann">
+<meta name="dcterms.date" content="2026-04-13">
+
+<title>Nils-Christian Bormann - Measuring the Ethno-Linguistic Fractionalization (ELF) Index at the Micro-Level</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../assets/favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+<link rel="stylesheet" href="assets/custom.css">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Nils-Christian Bormann</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../research.html" rel="" target="">
+ <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../data.html" rel="" target="">
+ <span class="menu-text">Data</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching.html" rel="" target="">
+ <span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../crew.html" rel="" target="">
+ <span class="menu-text">CREW</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../blog/2026-04-13-covoting/index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../assets/CV.pdf" rel="" target="_blank"><i class="bi bi-file-earmark-person" role="img" aria-label="Download CV">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:nils.bormann@uni-wh.de" rel="" target=""><i class="bi bi-envelope" role="img" aria-label="Email">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=EP0c2lMAAAAJ&amp;hl=de" rel="" target="_blank"><i class="bi bi-google" role="img" aria-label="Google Scholar">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Measuring the Ethno-Linguistic Fractionalization (ELF) Index at the Micro-Level</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Nils-Christian Bormann </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 13, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p>In their influential <a href="https://www.jstor.org/stable/pdf/2951270">1997 Quarterly Journal of Economics study</a>, Easterly and Levine describe the Ethno-Linguistic Fractionalization (ELF) index as “a measure of ethnolinguistic diversity … that measures the probability that two randomly selected individuals in a country belong to different ethnolinguistic group.” A complement of the <a href="https://en.wikipedia.org/wiki/Herfindahl%E2%80%93Hirschman_index">Herfindahl-Hirschman Index (HHI) of concentration</a>, the ELF is one of the most widely used metrics in the social sciences, employed in foundational studies of <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/ethnicity-insurgency-and-civil-war/B1D5D0E7C782483C5D7E102A61AD6605#article">civil war</a>, <a href="https://www.jstor.org/stable/2951270">development</a>, <a href="https://doi.org/10.2307/2946696">growth</a>, and <a href="https://doi.org/10.1177/0010414005278420">party systems</a>. In political science, <a href="https://doi.org/10.1177/001041407901200101">Laakso and Taagepera’s</a> effective number of parties (ENP) measure, the inverse of the HHI, is similarly important. Despite its clear micro-foundations, social scientists are using the ELF and related indices as <em>aggregate</em> measurements at the national, sub-national, or local level.</p>
+<p><a href="https://doi.org/10.1017/S0003055426101579">In a recently published study</a> in the <em>American Political Science Review</em>, <a href="https://www.carlmueller-crepon.org/">Carl Müller-Crepon</a> and I show that the ELF, the ENP, and other indices, such as the GINI, can be estimated at the micro-level. We rely on a widely-used data source in the social sciences: nationally representative probability samples. Rather than analyzing individual-level survey data directly, we pair respondents into dyads and assess their likeness on variables such as ethnicity or (intended) vote choice. This gives us a nationally representative sample of pairs of randomly selected individuals with shared or different values on a range of variables like ethnicity or voting. The sample mean of these estimates approaches the country-level index of interest.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>Our pairwise, survey-based approach to index measurement offers several advantages. First, the ELF estimated on respondent-pair data comes with uncertainty estimates that an index calculated with aggregate-level population share data lacks. Second, estimating the ELF on respondent pairs from surveys dramatically increases statistical power in subsequent analyses. Third, a pairwise approach enables the simultaneous analysis of micro, meso, and macro patterns. Fourth, estimating the ELF at the respondent-pair-level opens up broad comparisons across different contexts without sacrificing individual-level insights.</p>
+<p>To realize these advantages, we derive the new <em>covoting regression</em> (CVR) model. The CVR is a simple linear probability model estimated on pairs of survey-respondents (see Figure). By focusing on covoting and coethnicity rather than individual voting intentions and ethno-linguistic identity, we abstract away from country-specific idiosyncrasies. This abstraction allows us to compare the effect of cleavages like ethnicity on voting intentions over time or across countries, even if voters face different parties in different elections or the range of relevant identity categories varies.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figure1b.png" class="img-fluid figure-img" style="width:60.0%"></p>
+<figcaption class="figure-caption">Dyadic connections between individuals who vote for two parties (red and blue). Black lines indicate covoting.</figcaption>
+</figure>
+</div>
+<p>Furthermore, the CVR addresses two methodological challenges that limit existing approaches to studying the relationship between ethnicity and voting intentions. First, existing micro-level studies that build on survey data suffer from potential selection bias because voters’ choices are frequently limited. For example, voters might be faced with a <a href="https://doi.org/10.1086/720304">menu that consists exclusively of (non-)coethnic</a> candidates. Existing studies that define ethnic voting as the correspondence of voter and candidate identity will over(under)-estimate ethnic voting. By focusing on coethnicity and shared voting intentions, the CVR captures bloc-voting pattern, where most members of one group support the same candidate or party.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> Second, the CVR avoids potential ecological fallacies and omitted variable bias that potentially arise in aggregate <a href="https://doi.org/10.1111/j.1540-5907.2012.00601.x">group</a> or <a href="https://doi.org/10.1177/0010414005278420">country-level analyses</a>. This problem threatens to become acute in cases where cross-cleavage covoting is wide-spread.</p>
+<p>In our study, we apply the CVR to studying voting intentions in 28 sub-Saharan Africa countries using five waves of <a href="https://www.afrobarometer.org/">Afrobarometer surveys</a>. Our approach allows us to comparatively revisit multiple questions that scholars previously asked in single-case studies. We investigate the relative importance of coethnicity in voting intentions as compared to other cleavages, if and how the effect of coethnicity changes over time in different contexts, and the mechanisms by which coethnicity affects vote choice. Our findings shed light on each of these questions:</p>
+<ol type="1">
+<li><p>In sub-Saharan Africa, coethnicity is associated with a 17 percentage point increase in the probability of covoting on average, an estimate four times larger than that of other cleavages, such as religion, education, urban-rural differences, and income. This dominance of coethnicity in covoting intentions highlights that prominent case studies, which question the relevance of ethnicity in vote choices, describe exceptions rather than broader trends (e.g., <a href="https://doi.org/10.1017/S0003055409990311">here</a>, <a href="https://doi.org/10.1080/13510341003700394">here</a>, and <a href="https://www.cambridge.org/core/books/inequality-and-political-cleavage-in-africa/F224A9681A591EDF6C4FA11199B5A972">here</a>).</p></li>
+<li><p>Coethnic covoting has remained stable over time. While it varies strongly within countries, the overall estimate for each of the five survey waves between 2005 and 2018 is effectively flat.</p></li>
+<li><p>When analyzing mechanisms, we find that meso-level group and party-based explanations rather than country-level institutions or individual-level characteristics offer the best explanation for the high correlation between coethnicity and covoting. Belonging to the same politically relevant or socially constructed ethnic identity, even if respondents’ mother tongues differ, accounts for about half of the overall effect of coethnic covoting.</p></li>
+</ol>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Since we measure coethnicity rather than ethnic difference for each individual pair, we need to take the complement of our sample mean to obtain the ELF.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>The CVR will still be biased if such restricted choice menus result from strategic party entry or exit, but its bias is smaller than that of alternative models.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<!-- GLightbox -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Wrap every pub thumbnail in a glightbox anchor
+    document.querySelectorAll('.pub-thumb-img').forEach(function (img) {
+      if (img.closest('a')) return; // already wrapped
+      var a = document.createElement('a');
+      a.href = img.src;
+      a.className = 'glightbox';
+      a.setAttribute('data-type', 'image');
+      img.parentNode.insertBefore(a, img);
+      a.appendChild(img);
+    });
+    GLightbox({ selector: '.glightbox' });
+  });
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© 2026 Nils-Christian Bormann</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">Built with <a href="https://quarto.org">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
