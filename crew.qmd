@@ -29,6 +29,24 @@ Alexander De Juan's research focuses on political attitudes and behavior in the 
 
 ::: {.crow-card}
 
+![](assets/crow/Vigano.jpg){.crow-photo fig-alt="Edoardo A Vigano"}
+
+::: {.crow-name}
+Edoardo A Viganò
+:::
+
+::: {.crow-affil}
+Visiting Professor in Quantitative Methods, University Carlos III., Madrid 
+:::
+
+::: {.crow-bio}
+Edoardo A Viganò studies political institutions, representation, and political violence.
+:::
+
+:::
+
+::: {.crow-card}
+
 ![](assets/crow/Klebe.png){.crow-photo fig-alt="Finn Klebe"}
 
 ::: {.crow-name}
