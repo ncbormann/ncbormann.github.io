@@ -29,6 +29,25 @@ Alexander De Juan's research focuses on political attitudes and behavior in the 
 
 ::: {.crow-card}
 
+![](assets/crow/Hoeg.jpeg){.crow-photo fig-alt="Domenic Hög"}
+
+::: {.crow-name}
+Domenic Hög
+:::
+
+::: {.crow-affil}
+PhD Student, University of Osnabrück
+:::
+
+:::    {.crow-bio}
+Domenic Hög studies political attitudes and their underlying mechanisms, with a focus on micro-level processes of mobilization, political conflict, and online communities such as the manosphere and other radicalization-related spaces.
+:::
+
+:::
+
+
+::: {.crow-card}
+
 ![](assets/crow/Vigano.jpg){.crow-photo fig-alt="Edoardo A Vigano"}
 
 ::: {.crow-name}
