@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ncbormann.github.io/blog/index.html</loc>
-    <lastmod>2026-08-31T12:37:40.268Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ncbormann.github.io/research.html</loc>
-    <lastmod>2026-08-31T12:37:40.348Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ncbormann.github.io/teaching.html</loc>
-    <lastmod>2026-08-31T12:37:40.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ncbormann.github.io/index.html</loc>
-    <lastmod>2026-08-31T12:37:40.268Z</lastmod>
+    <loc>https://ncbormann.github.io/blog/2026-04-13-covoting/index.html</loc>
+    <lastmod>2026-09-07T11:50:43.711Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/data.html</loc>
-    <lastmod>2026-08-31T12:37:40.268Z</lastmod>
+    <lastmod>2026-09-07T11:50:43.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/teaching.html</loc>
+    <lastmod>2026-09-07T11:50:43.802Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/crew.html</loc>
-    <lastmod>2026-08-31T12:37:40.268Z</lastmod>
+    <lastmod>2026-09-07T11:50:43.711Z</lastmod>
   </url>
   <url>
-    <loc>https://ncbormann.github.io/blog/2026-04-13-covoting/index.html</loc>
-    <lastmod>2026-08-31T12:37:40.268Z</lastmod>
+    <loc>https://ncbormann.github.io/index.html</loc>
+    <lastmod>2026-09-07T11:50:43.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/research.html</loc>
+    <lastmod>2026-09-07T11:50:43.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/blog/index.html</loc>
+    <lastmod>2026-09-07T11:50:43.711Z</lastmod>
   </url>
 </urlset>
