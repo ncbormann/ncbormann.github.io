@@ -97,7 +97,7 @@ Coethnics Covote in Africa: Studying Electoral Cleavages with a Co-Voting Regres
 Carl Müller-Crepon & Nils-Christian Bormann
 :::
 ::: {.pub-venue}
-*American Political Science Review*, 2026
+*American Political Science Review*, 120(4), 2026, pp. 1231–1249
 :::
 ::: {.pub-links}
 [PDF](papers/Mueller-Crepon_Bormann-co-Ethnics_co-vote_in_Africa-March2026.pdf){.pub-link target="_blank"}
@@ -105,6 +105,28 @@ Carl Müller-Crepon & Nils-Christian Bormann
 [Appendix](papers/Mueller-Crepon_Bormann-co-Ethnics_co-vote_in_Africa-March2026-Appendix.pdf){.pub-link target="_blank"}
 [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F74D0){.pub-link target="_blank"}
 [Working Paper](https://www.afrobarometer.org/publication/wp221-coethnics-covote-in-africa/){.pub-link target="_blank"}
+:::
+:::
+:::
+
+::: {.pub-card .pub-card-with-img}
+::: {.pub-card-thumb}
+![](assets/pub-images/democratization2025.png){.pub-thumb-img fig-alt="Polarization, Fragmentation, and Democratic Deconsolidation"}
+:::
+::: {.pub-card-content}
+::: {.pub-title}
+Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe
+:::
+::: {.pub-authors}
+Lea Kaftan & Nils-Christian Bormann
+:::
+::: {.pub-venue}
+*Democratization*, 33(7), 2026, pp. 1570–1593
+:::
+::: {.pub-links}
+[PDF](papers/Kaftan_Bormann-Polarization_Fragmentation_and_Deconsolidation.pdf){.pub-link target="_blank"}
+[DOI](https://doi.org/10.1080/13510347.2025.2537218){.pub-link target="_blank"}
+[Replication Data](https://osf.io/dr7vh/files/osfstorage){.pub-link target="_blank"}
 :::
 :::
 :::
@@ -154,28 +176,6 @@ Edoardo Alberto Viganò, Bruno Della Sala, Stefan Stojkovic & Nils-Christian Bor
 [PDF](papers/ViganoEtAl-Political_Violence_and_Antisystem_Voting-JPR2025.pdf){.pub-link target="_blank"}
 [DOI](https://doi.org/10.1177/00223433251347763){.pub-link target="_blank"}
 [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TZAGJD){.pub-link target="_blank"}
-:::
-:::
-:::
-
-::: {.pub-card .pub-card-with-img}
-::: {.pub-card-thumb}
-![](assets/pub-images/democratization2025.png){.pub-thumb-img fig-alt="Polarization, Fragmentation, and Democratic Deconsolidation"}
-:::
-::: {.pub-card-content}
-::: {.pub-title}
-Polarization, Fragmentation, and Democratic Deconsolidation in Interwar Europe
-:::
-::: {.pub-authors}
-Lea Kaftan & Nils-Christian Bormann
-:::
-::: {.pub-venue}
-*Democratization*, Online First, 2025, pp. 1–24
-:::
-::: {.pub-links}
-[PDF](papers/Kaftan_Bormann-Polarization_Fragmentation_and_Deconsolidation.pdf){.pub-link target="_blank"}
-[DOI](https://doi.org/10.1080/13510347.2025.2537218){.pub-link target="_blank"}
-[Replication Data](https://osf.io/dr7vh/files/osfstorage){.pub-link target="_blank"}
 :::
 :::
 :::

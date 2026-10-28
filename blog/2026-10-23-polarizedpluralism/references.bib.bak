@@ -1,0 +1,53 @@
+@article{tiratelli2024,
+  author  = {Tiratelli, Matteo},
+  title   = {Deradicalization and the Experience of Governing: Evidence from the Transformation of Socialist Parties in {Western Europe}, 1945--2021},
+  journal = {Social Science History},
+  year    = {2024},
+  volume  = {48},
+  number  = {3},
+  pages   = {409--432},
+  doi     = {10.1017/ssh.2024.21}
+}
+
+@book{bornschier2024,
+  author    = {Bornschier, Simon and Haffert, Lukas and H{\"a}usermann, Silja and Steenbergen, Marco and Zollinger, Delia},
+  title     = {Cleavage Formation in the 21st Century: How Social Identities Shape Voting Behavior in Contexts of Electoral Realignment},
+  series    = {Elements in European Politics},
+  publisher = {Cambridge University Press},
+  address   = {Cambridge},
+  year      = {2024},
+  doi       = {10.1017/9781009393508}
+}
+
+@article{krause2023,
+  author  = {Krause, Werner and Cohen, Denis and Abou-Chadi, Tarik},
+  title   = {Does Accommodation Work? Mainstream Party Strategies and the Success of Radical Right Parties},
+  journal = {Political Science Research and Methods},
+  year    = {2023},
+  volume  = {11},
+  number  = {1},
+  pages   = {172--179},
+  doi     = {10.1017/psrm.2022.8}
+}
+
+@article{chou2021,
+  author  = {Chou, Winston and Dancygier, Rafaela and Egami, Naoki and Jamal, Amaney A.},
+  title   = {Competing for Loyalists? How Party Positioning Affects Populist Radical Right Voting},
+  journal = {Comparative Political Studies},
+  year    = {2021},
+  volume  = {54},
+  number  = {12},
+  pages   = {2226--2260},
+  doi     = {10.1177/0010414021997166}
+}
+
+@article{hjorth2022,
+  author  = {Hjorth, Frederik and Larsen, Martin Vinæs},
+  title   = {When Does Accommodation Work? Electoral Effects of Mainstream Left Position Taking on Immigration},
+  journal = {British Journal of Political Science},
+  year    = {2022},
+  volume  = {52},
+  number  = {2},
+  pages   = {949--957},
+  doi     = {10.1017/S0007123420000563}
+}

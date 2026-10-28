@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ncbormann.github.io/blog/index.html</loc>
-    <lastmod>2026-09-30T13:37:29.878Z</lastmod>
+    <lastmod>2026-10-28T15:33:55.999Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/teaching.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://ncbormann.github.io/research.html</loc>
-    <lastmod>2026-09-14T15:50:27.317Z</lastmod>
+    <lastmod>2026-10-28T15:38:51.722Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/crew.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://ncbormann.github.io/index.html</loc>
-    <lastmod>2026-09-30T13:33:36.488Z</lastmod>
+    <lastmod>2026-10-28T15:16:04.205Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/blog/2026-04-13-covoting/index.html</loc>
@@ -31,5 +31,9 @@
   <url>
     <loc>https://ncbormann.github.io/blog/2026-09-11-history/index.html</loc>
     <lastmod>2026-09-30T13:37:29.605Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/blog/2026-10-23-polarizedpluralism/index.html</loc>
+    <lastmod>2026-10-28T15:33:55.720Z</lastmod>
   </url>
 </urlset>
