@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ncbormann.github.io/crew.html</loc>
-    <lastmod>2026-10-09T16:24:31.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ncbormann.github.io/data.html</loc>
-    <lastmod>2026-10-09T16:24:31.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ncbormann.github.io/blog/2026-04-13-covoting/index.html</loc>
-    <lastmod>2026-10-09T16:24:31.015Z</lastmod>
+    <loc>https://ncbormann.github.io/teaching.html</loc>
+    <lastmod>2026-10-28T15:39:58.042Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/blog/index.html</loc>
-    <lastmod>2026-10-09T16:24:31.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ncbormann.github.io/teaching.html</loc>
-    <lastmod>2026-10-09T16:24:31.079Z</lastmod>
+    <lastmod>2026-10-28T15:39:57.957Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/blog/2026-09-11-history/index.html</loc>
-    <lastmod>2026-10-09T16:24:31.016Z</lastmod>
+    <lastmod>2026-10-28T15:39:57.955Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/index.html</loc>
-    <lastmod>2026-10-09T16:24:31.018Z</lastmod>
+    <lastmod>2026-10-28T15:39:57.957Z</lastmod>
   </url>
   <url>
     <loc>https://ncbormann.github.io/research.html</loc>
-    <lastmod>2026-10-09T16:24:31.079Z</lastmod>
+    <lastmod>2026-10-28T15:39:58.042Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/crew.html</loc>
+    <lastmod>2026-10-28T15:39:57.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/blog/2026-04-13-covoting/index.html</loc>
+    <lastmod>2026-10-28T15:39:57.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/blog/2026-10-23-polarizedpluralism/index.html</loc>
+    <lastmod>2026-10-28T15:39:57.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ncbormann.github.io/data.html</loc>
+    <lastmod>2026-10-28T15:39:57.957Z</lastmod>
   </url>
 </urlset>
